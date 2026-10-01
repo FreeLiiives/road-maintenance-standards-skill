@@ -1,0 +1,14 @@
+[
+  {
+    "id": "mot-standards",
+    "url": "https://xxgk.mot.gov.cn/zhengceapp/863/894/list_7234.html",
+    "name": "交通运输部信息公开：标准列表",
+    "coverage": "监测当前列表可见链接；不声称穷尽历史公告或全国所有规范"
+  },
+  {
+    "id": "mot-highway",
+    "url": "https://xxgk.mot.gov.cn/jigouapp/741/742/list_6699.html",
+    "name": "交通运输部信息公开：公路局",
+    "coverage": "补充发现养护、路面及标准修订公告；候选必须复核"
+  }
+]

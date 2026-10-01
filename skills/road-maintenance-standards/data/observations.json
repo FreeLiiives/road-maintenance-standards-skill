@@ -1,0 +1,119 @@
+{
+  "pages": {
+    "https://xxgk.mot.gov.cn/2020/jigou/glj/202006/t20200623_3312282.html": {
+      "last_attempt": "2026-10-01T15:08:08+00:00",
+      "fetch_status": "error",
+      "error": "URLError: <urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)>"
+    },
+    "https://xxgk.mot.gov.cn/2020/jigou/glj/202006/t20200623_3313125.html": {
+      "last_attempt": "2026-10-01T15:08:08+00:00",
+      "fetch_status": "error",
+      "error": "URLError: <urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)>"
+    },
+    "https://xxgk.mot.gov.cn/2020/jigou/glj/202006/t20200623_3313189.html": {
+      "last_attempt": "2026-10-01T15:08:08+00:00",
+      "fetch_status": "error",
+      "error": "URLError: <urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)>"
+    },
+    "https://xxgk.mot.gov.cn/2020/jigou/glj/202311/t20231123_3952605.html": {
+      "last_attempt": "2026-10-01T15:08:08+00:00",
+      "fetch_status": "error",
+      "error": "URLError: <urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)>"
+    },
+    "https://xxgk.mot.gov.cn/jigou/glj/202006/t20200623_3313126.html": {
+      "last_attempt": "2026-10-01T15:08:08+00:00",
+      "fetch_status": "error",
+      "error": "URLError: <urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)>"
+    },
+    "https://xxgk.mot.gov.cn/jigou/glj/202604/t20260428_4204478.html": {
+      "last_attempt": "2026-10-01T15:08:08+00:00",
+      "fetch_status": "error",
+      "error": "URLError: <urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)>"
+    },
+    "https://xxgk.mot.gov.cn/jigou/glj/202606/t20260630_4208511.html": {
+      "last_attempt": "2026-10-01T15:08:08+00:00",
+      "fetch_status": "error",
+      "error": "URLError: <urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)>"
+    },
+    "https://xxgk.mot.gov.cn/jigou/glj/202607/t20260710_4209312.html": {
+      "last_attempt": "2026-10-01T15:08:08+00:00",
+      "fetch_status": "error",
+      "error": "URLError: <urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)>"
+    },
+    "https://xxgk.mot.gov.cn/jigou/glj/202609/t20260924_4224857.html": {
+      "last_attempt": "2026-10-01T15:08:08+00:00",
+      "fetch_status": "error",
+      "error": "URLError: <urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)>"
+    }
+  },
+  "candidates": {},
+  "last_run": "2026-10-01T15:08:08+00:00",
+  "health": [
+    {
+      "source": "mot-standards",
+      "url": "https://xxgk.mot.gov.cn/zhengceapp/863/894/list_7234.html",
+      "ok": false,
+      "error": "URLError: <urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)>"
+    },
+    {
+      "source": "mot-highway",
+      "url": "https://xxgk.mot.gov.cn/jigouapp/741/742/list_6699.html",
+      "ok": false,
+      "error": "URLError: <urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)>"
+    },
+    {
+      "source": "announcement",
+      "url": "https://xxgk.mot.gov.cn/2020/jigou/glj/202006/t20200623_3312282.html",
+      "ok": false,
+      "error": "URLError: <urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)>"
+    },
+    {
+      "source": "announcement",
+      "url": "https://xxgk.mot.gov.cn/2020/jigou/glj/202006/t20200623_3313125.html",
+      "ok": false,
+      "error": "URLError: <urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)>"
+    },
+    {
+      "source": "announcement",
+      "url": "https://xxgk.mot.gov.cn/2020/jigou/glj/202006/t20200623_3313189.html",
+      "ok": false,
+      "error": "URLError: <urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)>"
+    },
+    {
+      "source": "announcement",
+      "url": "https://xxgk.mot.gov.cn/2020/jigou/glj/202311/t20231123_3952605.html",
+      "ok": false,
+      "error": "URLError: <urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)>"
+    },
+    {
+      "source": "announcement",
+      "url": "https://xxgk.mot.gov.cn/jigou/glj/202006/t20200623_3313126.html",
+      "ok": false,
+      "error": "URLError: <urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)>"
+    },
+    {
+      "source": "announcement",
+      "url": "https://xxgk.mot.gov.cn/jigou/glj/202604/t20260428_4204478.html",
+      "ok": false,
+      "error": "URLError: <urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)>"
+    },
+    {
+      "source": "announcement",
+      "url": "https://xxgk.mot.gov.cn/jigou/glj/202606/t20260630_4208511.html",
+      "ok": false,
+      "error": "URLError: <urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)>"
+    },
+    {
+      "source": "announcement",
+      "url": "https://xxgk.mot.gov.cn/jigou/glj/202607/t20260710_4209312.html",
+      "ok": false,
+      "error": "URLError: <urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)>"
+    },
+    {
+      "source": "announcement",
+      "url": "https://xxgk.mot.gov.cn/jigou/glj/202609/t20260924_4224857.html",
+      "ok": false,
+      "error": "URLError: <urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)>"
+    }
+  ]
+}

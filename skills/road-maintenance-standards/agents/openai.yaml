@@ -1,0 +1,4 @@
+interface:
+  display_name: "道路养护规范助手"
+  short_description: "查询公路养护规范、核验公告版本与替代关系，并追踪官方每周更新"
+  default_prompt: "使用 $road-maintenance-standards 查询与我的道路病害识别课题相关的规范，核对实施时间并提供官方证据链接。"

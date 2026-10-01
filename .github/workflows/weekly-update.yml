@@ -1,0 +1,58 @@
+name: Weekly standards update
+on:
+  schedule:
+    # Monday 09:17 Asia/Shanghai (01:17 UTC).
+    - cron: '17 1 * * 1'
+  workflow_dispatch:
+  push:
+    paths:
+      - '.github/workflows/weekly-update.yml'
+      - 'skills/road-maintenance-standards/scripts/**'
+      - 'skills/road-maintenance-standards/data/sources.json'
+      - 'skills/road-maintenance-standards/data/catalog.json'
+permissions:
+  contents: write
+concurrency:
+  group: standards-sync
+  cancel-in-progress: false
+jobs:
+  sync:
+    if: github.ref == format('refs/heads/{0}', github.event.repository.default_branch)
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: ${{ github.event.repository.default_branch }}
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Run tests before synchronization
+        run: python -m unittest discover -s tests -v
+      - name: Collect official observations
+        id: collect
+        continue-on-error: true
+        run: python skills/road-maintenance-standards/scripts/standards.py sync
+      - name: Save report as workflow artifact
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: standards-monitor-report
+          path: skills/road-maintenance-standards/reports/
+          if-no-files-found: warn
+      - name: Persist observations and report, including failures
+        if: steps.collect.outcome != 'skipped' && !cancelled()
+        shell: bash
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add -- skills/road-maintenance-standards/data/observations.json skills/road-maintenance-standards/reports/latest.json skills/road-maintenance-standards/reports/latest.md
+          if ! git diff --cached --quiet; then
+            git commit -m 'chore: update official standards observations'
+            git push
+          fi
+      - name: Expose incomplete coverage as a failed run
+        if: steps.collect.outcome == 'failure'
+        run: |
+          echo 'Official source access was incomplete. Read the saved report; no clean synchronization is claimed.'
+          exit 1

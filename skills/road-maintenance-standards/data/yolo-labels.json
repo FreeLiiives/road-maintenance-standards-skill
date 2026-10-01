@@ -1,0 +1,10 @@
+{
+  "Crack": {"keywords": ["裂缝"], "note": "项目标签，不推断裂缝类型、宽度或严重程度"},
+  "Manhole": {"keywords": ["井盖"], "note": "井盖不一定是病害；当前目录未覆盖市政井盖专项标准"},
+  "Net": {"keywords": ["网裂"], "note": "标签语义需与实际数据集核对"},
+  "Pothole": {"keywords": ["坑槽"], "note": "无深度与尺寸测量，不能判定规范等级"},
+  "Patch-Crack": {"keywords": ["修补", "裂缝"], "note": "仅检索关联，不判定修补质量"},
+  "Patch-Net": {"keywords": ["修补", "网裂"], "note": "仅检索关联，不判定修补质量"},
+  "Patch-Pothole": {"keywords": ["修补", "坑槽"], "note": "仅检索关联，不判定修补质量"},
+  "Other": {"keywords": [], "note": "必须先明确具体对象，不能自动推荐标准或处置"}
+}

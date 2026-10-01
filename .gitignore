@@ -1,0 +1,14 @@
+__pycache__/
+*.py[cod]
+.venv/
+.env
+.env.*
+*.pt
+*.onnx
+*.pdf
+*.zip
+*.tmp
+dist/
+local-cache/
+.DS_Store
+Thumbs.db
