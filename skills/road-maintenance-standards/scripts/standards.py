@@ -145,7 +145,7 @@ def discover(raw, base_url):
     return found
 
 
-def fingerprint(raw):
+def fingerprint(raw, require_code=True):
     page = parse_page(raw)
     text = normalized(" ".join(page.texts))
     # MOT pages repeat metadata above the body. Anchor to the announcement paragraph.
@@ -155,10 +155,11 @@ def fingerprint(raw):
     title = normalized(" ".join(page.title_parts))
     if not title or "交通运输部" not in text or len(body) < 40:
         raise ValueError("Announcement identity/body could not be verified")
-    if not CODE.search(body):
+    if require_code and not CODE.search(body):
         raise ValueError("No standard identifier found; manual review required")
     return {"title": title, "sha256": hashlib.sha256(body.encode()).hexdigest(),
             "detected_codes": sorted({normalized(m.group()) for m in CODE.finditer(body)}),
+            "classification": "standard_identifier_detected" if CODE.search(body) else "manual_review_no_identifier",
             "review_signals": [w for w in ("废止", "替代", "修订", "修改单", "征求意见", "计划") if w in body]}
 
 
@@ -218,7 +219,7 @@ def sync(root=ROOT, fetcher=fetch, now=None, max_new=20, delay=0.5):
     for url in targets:
         old = state["pages"].get(url, {})
         try:
-            info = fingerprint(fetcher(url))
+            info = fingerprint(fetcher(url), require_code=url in known)
             kind = "baseline" if not old.get("sha256") else ("changed" if info["sha256"] != old["sha256"] else "unchanged")
             if kind != "unchanged":
                 changes.append({"kind": kind, "url": url, "title": info["title"], "previous_sha256": old.get("sha256"), "sha256": info["sha256"]})
