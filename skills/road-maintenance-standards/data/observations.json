@@ -13,8 +13,8 @@
         "废止",
         "修订"
       ],
-      "last_attempt": "2026-10-02T01:13:44+00:00",
-      "last_success": "2026-10-02T01:13:44+00:00",
+      "last_attempt": "2026-10-05T07:10:13+00:00",
+      "last_success": "2026-10-05T07:10:13+00:00",
       "fetch_status": "ok"
     },
     "https://xxgk.mot.gov.cn/2020/jigou/glj/202006/t20200623_3313125.html": {
@@ -27,8 +27,8 @@
       "review_signals": [
         "计划"
       ],
-      "last_attempt": "2026-10-02T01:13:44+00:00",
-      "last_success": "2026-10-02T01:13:44+00:00",
+      "last_attempt": "2026-10-05T07:10:13+00:00",
+      "last_success": "2026-10-05T07:10:13+00:00",
       "fetch_status": "ok"
     },
     "https://xxgk.mot.gov.cn/2020/jigou/glj/202006/t20200623_3313189.html": {
@@ -42,8 +42,8 @@
       "review_signals": [
         "废止"
       ],
-      "last_attempt": "2026-10-02T01:13:44+00:00",
-      "last_success": "2026-10-02T01:13:44+00:00",
+      "last_attempt": "2026-10-05T07:10:13+00:00",
+      "last_success": "2026-10-05T07:10:13+00:00",
       "fetch_status": "ok"
     },
     "https://xxgk.mot.gov.cn/2020/jigou/glj/202311/t20231123_3952605.html": {
@@ -57,8 +57,8 @@
       "review_signals": [
         "废止"
       ],
-      "last_attempt": "2026-10-02T01:13:44+00:00",
-      "last_success": "2026-10-02T01:13:44+00:00",
+      "last_attempt": "2026-10-05T07:10:13+00:00",
+      "last_success": "2026-10-05T07:10:13+00:00",
       "fetch_status": "ok"
     },
     "https://xxgk.mot.gov.cn/jigou/glj/202006/t20200623_3313126.html": {
@@ -69,8 +69,8 @@
       ],
       "classification": "standard_identifier_detected",
       "review_signals": [],
-      "last_attempt": "2026-10-02T01:13:44+00:00",
-      "last_success": "2026-10-02T01:13:44+00:00",
+      "last_attempt": "2026-10-05T07:10:13+00:00",
+      "last_success": "2026-10-05T07:10:13+00:00",
       "fetch_status": "ok"
     },
     "https://xxgk.mot.gov.cn/jigou/glj/202604/t20260428_4204478.html": {
@@ -81,8 +81,8 @@
       ],
       "classification": "standard_identifier_detected",
       "review_signals": [],
-      "last_attempt": "2026-10-02T01:13:44+00:00",
-      "last_success": "2026-10-02T01:13:44+00:00",
+      "last_attempt": "2026-10-05T07:10:13+00:00",
+      "last_success": "2026-10-05T07:10:13+00:00",
       "fetch_status": "ok"
     },
     "https://xxgk.mot.gov.cn/jigou/glj/202606/t20260630_4208511.html": {
@@ -93,8 +93,8 @@
       ],
       "classification": "standard_identifier_detected",
       "review_signals": [],
-      "last_attempt": "2026-10-02T01:13:44+00:00",
-      "last_success": "2026-10-02T01:13:44+00:00",
+      "last_attempt": "2026-10-05T07:10:13+00:00",
+      "last_success": "2026-10-05T07:10:13+00:00",
       "fetch_status": "ok"
     },
     "https://xxgk.mot.gov.cn/jigou/glj/202607/t20260710_4209312.html": {
@@ -108,8 +108,8 @@
       "review_signals": [
         "废止"
       ],
-      "last_attempt": "2026-10-02T01:13:44+00:00",
-      "last_success": "2026-10-02T01:13:44+00:00",
+      "last_attempt": "2026-10-05T07:10:13+00:00",
+      "last_success": "2026-10-05T07:10:13+00:00",
       "fetch_status": "ok"
     },
     "https://xxgk.mot.gov.cn/jigou/glj/202609/t20260924_4224857.html": {
@@ -120,8 +120,8 @@
       ],
       "classification": "standard_identifier_detected",
       "review_signals": [],
-      "last_attempt": "2026-10-02T01:13:44+00:00",
-      "last_success": "2026-10-02T01:13:44+00:00",
+      "last_attempt": "2026-10-05T07:10:13+00:00",
+      "last_success": "2026-10-05T07:10:13+00:00",
       "fetch_status": "ok"
     },
     "https://xxgk.mot.gov.cn/jigou/cwsjs/202305/t20230531_3837620.html": {
@@ -638,6 +638,258 @@
       "last_attempt": "2026-10-02T01:13:44+00:00",
       "last_success": "2026-10-02T01:13:44+00:00",
       "fetch_status": "ok"
+    },
+    "https://xxgk.mot.gov.cn/jigou/glj/202310/t20231012_3925562.html": {
+      "title": "关于农村公路建设和养护资金长效保障机制等三类典型案例的公示-政府信息公开-交通运输部",
+      "sha256": "bfb0a3d4457c64f92932cb0a2bca61d265b9e348a018aa254bfa1b95ca2b53d3",
+      "detected_codes": [],
+      "classification": "manual_review_no_identifier",
+      "review_signals": [],
+      "last_attempt": "2026-10-05T07:10:13+00:00",
+      "last_success": "2026-10-05T07:10:13+00:00",
+      "fetch_status": "ok"
+    },
+    "https://xxgk.mot.gov.cn/jigou/glj/202310/t20231019_3928979.html": {
+      "title": "交通运输部关于发布《公路工程质量检验评定标准 第二册 机电工程》英、法文版等4项公路工程行业标准外文版的公告-政府信息公开-交通运输部",
+      "sha256": "2dc1a5ec0776fcf890ae987038d932a720161596e4acc8e6aea0c895cff57350",
+      "detected_codes": [
+        "JTG 2182—2020",
+        "JTG 3362—2018",
+        "JTG/T F30—2014"
+      ],
+      "classification": "standard_identifier_detected",
+      "review_signals": [],
+      "last_attempt": "2026-10-05T07:10:13+00:00",
+      "last_success": "2026-10-05T07:10:13+00:00",
+      "fetch_status": "ok"
+    },
+    "https://xxgk.mot.gov.cn/jigou/glj/202310/t20231019_3928980.html": {
+      "title": "交通运输部关于发布《公路隧道设计规范 第一册 土建工程》英、法文版等7项公路工程行业标准外文版的公告-政府信息公开-交通运输部",
+      "sha256": "22722b8b770a82b22ad0c5fd39c4d00391adaba6fc2e1c4f6648beec717ff872",
+      "detected_codes": [
+        "JTG 2232—2019",
+        "JTG 3370.1—2018",
+        "JTG H12—2015"
+      ],
+      "classification": "standard_identifier_detected",
+      "review_signals": [],
+      "last_attempt": "2026-10-05T07:10:13+00:00",
+      "last_success": "2026-10-05T07:10:13+00:00",
+      "fetch_status": "ok"
+    },
+    "https://xxgk.mot.gov.cn/jigou/glj/202311/t20231102_3938969.html": {
+      "title": "交通运输部办公厅关于印发农村公路建设和养护资金长效保障机制等三类典型案例的通知-政府信息公开-交通运输部",
+      "sha256": "05a4d3c521bb045530590fc2541ec263c0004ca08a2e369ae1275ab6488de114",
+      "detected_codes": [],
+      "classification": "manual_review_no_identifier",
+      "review_signals": [],
+      "last_attempt": "2026-10-05T07:10:13+00:00",
+      "last_success": "2026-10-05T07:10:13+00:00",
+      "fetch_status": "ok"
+    },
+    "https://xxgk.mot.gov.cn/jigou/glj/202311/t20231115_3945750.html": {
+      "title": "交通运输部办公厅关于征集2024年度公路工程行业标准项目承担单位的通知-政府信息公开-交通运输部",
+      "sha256": "bb35f54f0c03859336193bb241b8a0e14a2592476290c74afdc677852343110f",
+      "detected_codes": [
+        "JTG 1002—2022"
+      ],
+      "classification": "standard_identifier_detected",
+      "review_signals": [
+        "修订",
+        "征求意见",
+        "计划"
+      ],
+      "last_attempt": "2026-10-05T07:10:13+00:00",
+      "last_success": "2026-10-05T07:10:13+00:00",
+      "fetch_status": "ok"
+    },
+    "https://xxgk.mot.gov.cn/jigou/glj/202311/t20231123_3952605.html": {
+      "title": "交通运输部关于发布《公路养护技术标准》的公告-政府信息公开-交通运输部",
+      "sha256": "3fab005c5b19ad632d55f6b1be1f6296fbaab6d7f432a8a0aa62fa4bcf379e19",
+      "detected_codes": [
+        "JTG 5110—2023",
+        "JTG H10—2009"
+      ],
+      "classification": "standard_identifier_detected",
+      "review_signals": [
+        "废止"
+      ],
+      "last_attempt": "2026-10-05T07:10:13+00:00",
+      "last_success": "2026-10-05T07:10:13+00:00",
+      "fetch_status": "ok"
+    },
+    "https://xxgk.mot.gov.cn/jigou/glj/202404/t20240428_4137587.html": {
+      "title": "交通运输部办公厅关于进一步加强公路养护作业单位资质管理工作的通知-政府信息公开-交通运输部",
+      "sha256": "31b0e8134b780f335ffe23259c8bc66da376a59eceb540984227326b7c05efae",
+      "detected_codes": [],
+      "classification": "manual_review_no_identifier",
+      "review_signals": [],
+      "last_attempt": "2026-10-05T07:10:13+00:00",
+      "last_success": "2026-10-05T07:10:13+00:00",
+      "fetch_status": "ok"
+    },
+    "https://xxgk.mot.gov.cn/jigou/glj/202406/t20240606_4142073.html": {
+      "title": "交通运输部关于发布《农村公路简易铺装路面设计施工技术细则》的公告-政府信息公开-交通运输部",
+      "sha256": "c0d0bb59c7a27afbf2405c8e0ce89e8ec21266deab01d2739f0a564354862deb",
+      "detected_codes": [
+        "JTG T 3351—2024",
+        "JTG/T 3351—2024"
+      ],
+      "classification": "standard_identifier_detected",
+      "review_signals": [],
+      "last_attempt": "2026-10-05T07:10:13+00:00",
+      "last_success": "2026-10-05T07:10:13+00:00",
+      "fetch_status": "ok"
+    },
+    "https://xxgk.mot.gov.cn/jigou/glj/202406/t20240606_4142075.html": {
+      "title": "交通运输部关于发布《农村公路技术状况评定标准》的公告-政府信息公开-交通运输部",
+      "sha256": "07362960e6aa73628fbc67a6feee68fc4a52f53305fe24e991d02807dfa7371e",
+      "detected_codes": [
+        "JTG 5211—2024"
+      ],
+      "classification": "standard_identifier_detected",
+      "review_signals": [],
+      "last_attempt": "2026-10-05T07:10:13+00:00",
+      "last_success": "2026-10-05T07:10:13+00:00",
+      "fetch_status": "ok"
+    },
+    "https://xxgk.mot.gov.cn/jigou/glj/202501/t20250107_4162186.html": {
+      "title": "交通运输部关于发布《公路沥青路面设计规范》俄文版的公告-政府信息公开-交通运输部",
+      "sha256": "7fe79bca1bc9e4523913ff074a6c88a0875ebbece8e26b0bbf659c8e98213910",
+      "detected_codes": [
+        "JTG D50—2017"
+      ],
+      "classification": "standard_identifier_detected",
+      "review_signals": [],
+      "last_attempt": "2026-10-05T07:10:13+00:00",
+      "last_success": "2026-10-05T07:10:13+00:00",
+      "fetch_status": "ok"
+    },
+    "https://xxgk.mot.gov.cn/jigou/glj/202504/t20250414_4166925.html": {
+      "title": "交通运输部办公厅关于《公路养护工程质量检验评定标准 第一册 土建工程》(JTG 5220—2020)第5.2.2条补充说明的通知-政府信息公开-交通运输部",
+      "sha256": "38fd8bd0b958070e57c93a45a88078d250257e7076435e80e9583c09bef1e2f4",
+      "detected_codes": [],
+      "classification": "manual_review_no_identifier",
+      "review_signals": [],
+      "last_attempt": "2026-10-05T07:10:13+00:00",
+      "last_success": "2026-10-05T07:10:13+00:00",
+      "fetch_status": "ok"
+    },
+    "https://xxgk.mot.gov.cn/jigou/glj/202510/t20251010_4177928.html": {
+      "title": "交通运输部办公厅关于印发《公路养护项目合同范本》的通知-政府信息公开-交通运输部",
+      "sha256": "230c9f6e9aae23ffa71eff947c59775638225b1a02fa7a8d7eb0d4420316d4cd",
+      "detected_codes": [],
+      "classification": "manual_review_no_identifier",
+      "review_signals": [
+        "修订"
+      ],
+      "last_attempt": "2026-10-05T07:10:13+00:00",
+      "last_success": "2026-10-05T07:10:13+00:00",
+      "fetch_status": "ok"
+    },
+    "https://xxgk.mot.gov.cn/jigou/glj/202511/t20251113_4179759.html": {
+      "title": "现行公路工程行业标准(定额)及日常管理组信息-政府信息公开-交通运输部",
+      "sha256": "ff67bc586197fd7aa095ddcce52816c8fe0c27a8506d271d656fac9ac2aa3fdb",
+      "detected_codes": [],
+      "classification": "manual_review_no_identifier",
+      "review_signals": [],
+      "last_attempt": "2026-10-05T07:10:13+00:00",
+      "last_success": "2026-10-05T07:10:13+00:00",
+      "fetch_status": "ok"
+    },
+    "https://xxgk.mot.gov.cn/jigou/glj/202512/t20251231_4194885.html": {
+      "title": "交通运输部关于发布《公路钢结构桥梁养护技术规范》的公告-政府信息公开-交通运输部",
+      "sha256": "f8e3b3abbcdb87387b5523c1b3c494261b4f291ad181eabe6bd323ef0ce0cc18",
+      "detected_codes": [
+        "JTG/T 5123-2025"
+      ],
+      "classification": "standard_identifier_detected",
+      "review_signals": [],
+      "last_attempt": "2026-10-05T07:10:13+00:00",
+      "last_success": "2026-10-05T07:10:13+00:00",
+      "fetch_status": "ok"
+    },
+    "https://xxgk.mot.gov.cn/jigou/glj/202601/t20260129_4199276.html": {
+      "title": "交通运输部关于发布《公路养护工程量清单及计量规范》的公告-政府信息公开-交通运输部",
+      "sha256": "f212da35806a4806d35208b3b2fcfe5625c185837007a27c680a95e699f3ad91",
+      "detected_codes": [
+        "JTG/T 5620-2025"
+      ],
+      "classification": "standard_identifier_detected",
+      "review_signals": [],
+      "last_attempt": "2026-10-05T07:10:13+00:00",
+      "last_success": "2026-10-05T07:10:13+00:00",
+      "fetch_status": "ok"
+    },
+    "https://xxgk.mot.gov.cn/jigou/glj/202604/t20260422_4204147.html": {
+      "title": "交通运输部关于发布《公路工程行业标准外文版编译管理导则》的公告-政府信息公开-交通运输部",
+      "sha256": "f150684e8a45c4d316100529b2b730bf68db58b738426e4ba1a4203313182c69",
+      "detected_codes": [
+        "JTG 1004-2026"
+      ],
+      "classification": "standard_identifier_detected",
+      "review_signals": [
+        "废止"
+      ],
+      "last_attempt": "2026-10-05T07:10:13+00:00",
+      "last_success": "2026-10-05T07:10:13+00:00",
+      "fetch_status": "ok"
+    },
+    "https://xxgk.mot.gov.cn/jigou/glj/202607/t20260708_4209139.html": {
+      "title": "交通运输部关于发布《公路路面纤维材料应用技术规范》的公告-政府信息公开-交通运输部",
+      "sha256": "675a5708c8da3b3c11dfbca1a8268cb60c10bd4da2173f78aa52734e65d72399",
+      "detected_codes": [
+        "JTG/T 3682—2026",
+        "JTGT 3682—2026"
+      ],
+      "classification": "standard_identifier_detected",
+      "review_signals": [],
+      "last_attempt": "2026-10-05T07:10:13+00:00",
+      "last_success": "2026-10-05T07:10:13+00:00",
+      "fetch_status": "ok"
+    },
+    "https://xxgk.mot.gov.cn/jigou/glj/202607/t20260714_4209592.html": {
+      "title": "交通运输部关于发布《公路隧道养护技术规范》的公告-政府信息公开-交通运输部",
+      "sha256": "0123140daf4b6e31fb284ad24e2b7aba12d253ca6dba87e6439fb80e43369936",
+      "detected_codes": [
+        "JTG 5130—2026",
+        "JTG H12—2015"
+      ],
+      "classification": "standard_identifier_detected",
+      "review_signals": [
+        "废止"
+      ],
+      "last_attempt": "2026-10-05T07:10:13+00:00",
+      "last_success": "2026-10-05T07:10:13+00:00",
+      "fetch_status": "ok"
+    },
+    "https://xxgk.mot.gov.cn/jigou/glj/202608/t20260803_4211001.html": {
+      "title": "交通运输部关于发布《公路水泥混凝土路面设计规范》的公告-政府信息公开-交通运输部",
+      "sha256": "b11a523ad14534df839adb85e63362e814e5cbb6200e9344e1222e51aab3ad48",
+      "detected_codes": [
+        "JTG 3340—2026",
+        "JTG D40—2011"
+      ],
+      "classification": "standard_identifier_detected",
+      "review_signals": [
+        "废止"
+      ],
+      "last_attempt": "2026-10-05T07:10:13+00:00",
+      "last_success": "2026-10-05T07:10:13+00:00",
+      "fetch_status": "ok"
+    },
+    "https://xxgk.mot.gov.cn/jigou/glj/202608/t20260814_4219904.html": {
+      "title": "交通运输部关于发布《公路水下隧道养护技术规范》的公告-政府信息公开-交通运输部",
+      "sha256": "15f3cad786aeada92a4bd1e63d328586c0419b68b68fc03c05358c1960a89b5e",
+      "detected_codes": [
+        "JTG/T 5131—2026",
+        "JTGT 5131—2026"
+      ],
+      "classification": "standard_identifier_detected",
+      "review_signals": [],
+      "last_attempt": "2026-10-05T07:10:13+00:00",
+      "last_success": "2026-10-05T07:10:13+00:00",
+      "fetch_status": "ok"
     }
   },
   "candidates": {
@@ -1107,7 +1359,7 @@
       "review_status": "unreviewed"
     }
   },
-  "last_run": "2026-10-02T01:13:44+00:00",
+  "last_run": "2026-10-05T07:10:13+00:00",
   "health": [
     {
       "source": "mot-standards",
@@ -1168,102 +1420,102 @@
     },
     {
       "source": "announcement",
-      "url": "https://xxgk.mot.gov.cn/jigou/glj/202009/t20200910_3463245.html",
+      "url": "https://xxgk.mot.gov.cn/jigou/glj/202310/t20231012_3925562.html",
       "ok": true
     },
     {
       "source": "announcement",
-      "url": "https://xxgk.mot.gov.cn/jigou/glj/202009/t20200927_3470873.html",
+      "url": "https://xxgk.mot.gov.cn/jigou/glj/202310/t20231019_3928979.html",
       "ok": true
     },
     {
       "source": "announcement",
-      "url": "https://xxgk.mot.gov.cn/jigou/glj/202105/t20210508_3586841.html",
+      "url": "https://xxgk.mot.gov.cn/jigou/glj/202310/t20231019_3928980.html",
       "ok": true
     },
     {
       "source": "announcement",
-      "url": "https://xxgk.mot.gov.cn/jigou/glj/202107/t20210706_3611279.html",
+      "url": "https://xxgk.mot.gov.cn/jigou/glj/202311/t20231102_3938969.html",
       "ok": true
     },
     {
       "source": "announcement",
-      "url": "https://xxgk.mot.gov.cn/jigou/glj/202108/t20210816_3615474.html",
+      "url": "https://xxgk.mot.gov.cn/jigou/glj/202311/t20231115_3945750.html",
       "ok": true
     },
     {
       "source": "announcement",
-      "url": "https://xxgk.mot.gov.cn/jigou/glj/202108/t20210825_3616530.html",
+      "url": "https://xxgk.mot.gov.cn/jigou/glj/202311/t20231123_3952605.html",
       "ok": true
     },
     {
       "source": "announcement",
-      "url": "https://xxgk.mot.gov.cn/jigou/glj/202108/t20210827_3616775.html",
+      "url": "https://xxgk.mot.gov.cn/jigou/glj/202404/t20240428_4137587.html",
       "ok": true
     },
     {
       "source": "announcement",
-      "url": "https://xxgk.mot.gov.cn/jigou/glj/202110/t20211026_3623037.html",
+      "url": "https://xxgk.mot.gov.cn/jigou/glj/202406/t20240606_4142073.html",
       "ok": true
     },
     {
       "source": "announcement",
-      "url": "https://xxgk.mot.gov.cn/jigou/glj/202112/t20211209_3630469.html",
+      "url": "https://xxgk.mot.gov.cn/jigou/glj/202406/t20240606_4142075.html",
       "ok": true
     },
     {
       "source": "announcement",
-      "url": "https://xxgk.mot.gov.cn/jigou/glj/202112/t20211228_3633603.html",
+      "url": "https://xxgk.mot.gov.cn/jigou/glj/202501/t20250107_4162186.html",
       "ok": true
     },
     {
       "source": "announcement",
-      "url": "https://xxgk.mot.gov.cn/jigou/glj/202201/t20220111_3635916.html",
+      "url": "https://xxgk.mot.gov.cn/jigou/glj/202504/t20250414_4166925.html",
       "ok": true
     },
     {
       "source": "announcement",
-      "url": "https://xxgk.mot.gov.cn/jigou/glj/202204/t20220425_3652738.html",
+      "url": "https://xxgk.mot.gov.cn/jigou/glj/202510/t20251010_4177928.html",
       "ok": true
     },
     {
       "source": "announcement",
-      "url": "https://xxgk.mot.gov.cn/jigou/glj/202204/t20220425_3652831.html",
+      "url": "https://xxgk.mot.gov.cn/jigou/glj/202511/t20251113_4179759.html",
       "ok": true
     },
     {
       "source": "announcement",
-      "url": "https://xxgk.mot.gov.cn/jigou/glj/202204/t20220426_3652905.html",
+      "url": "https://xxgk.mot.gov.cn/jigou/glj/202512/t20251231_4194885.html",
       "ok": true
     },
     {
       "source": "announcement",
-      "url": "https://xxgk.mot.gov.cn/jigou/glj/202207/t20220729_3662018.html",
+      "url": "https://xxgk.mot.gov.cn/jigou/glj/202601/t20260129_4199276.html",
       "ok": true
     },
     {
       "source": "announcement",
-      "url": "https://xxgk.mot.gov.cn/jigou/glj/202209/t20220913_3679720.html",
+      "url": "https://xxgk.mot.gov.cn/jigou/glj/202604/t20260422_4204147.html",
       "ok": true
     },
     {
       "source": "announcement",
-      "url": "https://xxgk.mot.gov.cn/jigou/glj/202303/t20230330_3784554.html",
+      "url": "https://xxgk.mot.gov.cn/jigou/glj/202607/t20260708_4209139.html",
       "ok": true
     },
     {
       "source": "announcement",
-      "url": "https://xxgk.mot.gov.cn/jigou/glj/202304/t20230407_3790364.html",
+      "url": "https://xxgk.mot.gov.cn/jigou/glj/202607/t20260714_4209592.html",
       "ok": true
     },
     {
       "source": "announcement",
-      "url": "https://xxgk.mot.gov.cn/jigou/glj/202304/t20230414_3798665.html",
+      "url": "https://xxgk.mot.gov.cn/jigou/glj/202608/t20260803_4211001.html",
       "ok": true
     },
     {
       "source": "announcement",
-      "url": "https://xxgk.mot.gov.cn/jigou/glj/202310/t20231008_3924625.html",
+      "url": "https://xxgk.mot.gov.cn/jigou/glj/202608/t20260814_4219904.html",
       "ok": true
     }
   ]
