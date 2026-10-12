@@ -1,6 +1,6 @@
 # 道路养护规范监测报告
 
-检查时间（UTC）：2026-10-05T07:10:13+00:00
+检查时间（UTC）：2026-10-12T07:27:05+00:00
 
 访问失败：0；本轮事件：20；待复核候选：93。
 
@@ -8,26 +8,26 @@
 
 ## 本轮事件
 
-- 建立基线：关于农村公路建设和养护资金长效保障机制等三类典型案例的公示-政府信息公开-交通运输部 — https://xxgk.mot.gov.cn/jigou/glj/202310/t20231012_3925562.html
-- 建立基线：交通运输部关于发布《公路工程质量检验评定标准 第二册 机电工程》英、法文版等4项公路工程行业标准外文版的公告-政府信息公开-交通运输部 — https://xxgk.mot.gov.cn/jigou/glj/202310/t20231019_3928979.html
-- 建立基线：交通运输部关于发布《公路隧道设计规范 第一册 土建工程》英、法文版等7项公路工程行业标准外文版的公告-政府信息公开-交通运输部 — https://xxgk.mot.gov.cn/jigou/glj/202310/t20231019_3928980.html
-- 建立基线：交通运输部办公厅关于印发农村公路建设和养护资金长效保障机制等三类典型案例的通知-政府信息公开-交通运输部 — https://xxgk.mot.gov.cn/jigou/glj/202311/t20231102_3938969.html
-- 建立基线：交通运输部办公厅关于征集2024年度公路工程行业标准项目承担单位的通知-政府信息公开-交通运输部 — https://xxgk.mot.gov.cn/jigou/glj/202311/t20231115_3945750.html
-- 建立基线：交通运输部关于发布《公路养护技术标准》的公告-政府信息公开-交通运输部 — https://xxgk.mot.gov.cn/jigou/glj/202311/t20231123_3952605.html
-- 建立基线：交通运输部办公厅关于进一步加强公路养护作业单位资质管理工作的通知-政府信息公开-交通运输部 — https://xxgk.mot.gov.cn/jigou/glj/202404/t20240428_4137587.html
-- 建立基线：交通运输部关于发布《农村公路简易铺装路面设计施工技术细则》的公告-政府信息公开-交通运输部 — https://xxgk.mot.gov.cn/jigou/glj/202406/t20240606_4142073.html
-- 建立基线：交通运输部关于发布《农村公路技术状况评定标准》的公告-政府信息公开-交通运输部 — https://xxgk.mot.gov.cn/jigou/glj/202406/t20240606_4142075.html
-- 建立基线：交通运输部关于发布《公路沥青路面设计规范》俄文版的公告-政府信息公开-交通运输部 — https://xxgk.mot.gov.cn/jigou/glj/202501/t20250107_4162186.html
-- 建立基线：交通运输部办公厅关于《公路养护工程质量检验评定标准 第一册 土建工程》(JTG 5220—2020)第5.2.2条补充说明的通知-政府信息公开-交通运输部 — https://xxgk.mot.gov.cn/jigou/glj/202504/t20250414_4166925.html
-- 建立基线：交通运输部办公厅关于印发《公路养护项目合同范本》的通知-政府信息公开-交通运输部 — https://xxgk.mot.gov.cn/jigou/glj/202510/t20251010_4177928.html
-- 建立基线：现行公路工程行业标准(定额)及日常管理组信息-政府信息公开-交通运输部 — https://xxgk.mot.gov.cn/jigou/glj/202511/t20251113_4179759.html
-- 建立基线：交通运输部关于发布《公路钢结构桥梁养护技术规范》的公告-政府信息公开-交通运输部 — https://xxgk.mot.gov.cn/jigou/glj/202512/t20251231_4194885.html
-- 建立基线：交通运输部关于发布《公路养护工程量清单及计量规范》的公告-政府信息公开-交通运输部 — https://xxgk.mot.gov.cn/jigou/glj/202601/t20260129_4199276.html
-- 建立基线：交通运输部关于发布《公路工程行业标准外文版编译管理导则》的公告-政府信息公开-交通运输部 — https://xxgk.mot.gov.cn/jigou/glj/202604/t20260422_4204147.html
-- 建立基线：交通运输部关于发布《公路路面纤维材料应用技术规范》的公告-政府信息公开-交通运输部 — https://xxgk.mot.gov.cn/jigou/glj/202607/t20260708_4209139.html
-- 建立基线：交通运输部关于发布《公路隧道养护技术规范》的公告-政府信息公开-交通运输部 — https://xxgk.mot.gov.cn/jigou/glj/202607/t20260714_4209592.html
-- 建立基线：交通运输部关于发布《公路水泥混凝土路面设计规范》的公告-政府信息公开-交通运输部 — https://xxgk.mot.gov.cn/jigou/glj/202608/t20260803_4211001.html
-- 建立基线：交通运输部关于发布《公路水下隧道养护技术规范》的公告-政府信息公开-交通运输部 — https://xxgk.mot.gov.cn/jigou/glj/202608/t20260814_4219904.html
+- 建立基线：交通运输部关于发布《低平板半挂车技术规范》等6项交通运输行业标准、《磁通量索力检测仪》等3项交通运输部部门计量检定规程和《营运客车类型划分及等级评定》第1号修改单的公告-政府信息公开-交通运输部 — https://xxgk.mot.gov.cn/jigou/kjs/202006/t20200623_3317413.html
+- 建立基线：交通运输部关于发布《机动车维修费用结算清单》等5项交通运输行业标准第1号修改单的公告-政府信息公开-交通运输部 — https://xxgk.mot.gov.cn/jigou/kjs/202106/t20210630_3610865.html
+- 建立基线：交通运输部关于发布《道路运输车辆卫星定位系统 车载终端技术要求》等2项交通运输行业标准第1号修改单的公告-政府信息公开-交通运输部 — https://xxgk.mot.gov.cn/jigou/kjs/202111/t20211111_3625608.html
+- 建立基线：交通运输部办公厅关于组织开展公路路基路面长期性能科学观测网建设试点的通知-政府信息公开-交通运输部 — https://xxgk.mot.gov.cn/jigou/kjs/202201/t20220111_3635977.html
+- 建立基线：交通运输部关于废止《移动式气缸镗床》等157项交通运输行业标准的公告-政府信息公开-交通运输部 — https://xxgk.mot.gov.cn/jigou/kjs/202207/t20220721_3661537.html
+- 建立基线：交通运输部关于发布《危险货物道路运输规则 第1部分:通则》等6项交通运输行业标准第1号修改单的公告-政府信息公开-交通运输部 — https://xxgk.mot.gov.cn/jigou/kjs/202405/t20240507_4138473.html
+- 建立基线：交通运输部关于发布《旋转压实仪》等12项部门计量检定规程及《车载式路面激光平整度仪》等4项部门计量检定规程外文版的公告-政府信息公开-交通运输部 — https://xxgk.mot.gov.cn/jigou/kjs/202407/t20240723_4145161.html
+- 建立基线：交通运输部关于发布《营运客车安全技术条件》等5项交通运输行业标准第1号修改单的公告-政府信息公开-交通运输部 — https://xxgk.mot.gov.cn/jigou/kjs/202504/t20250423_4167422.html
+- 建立基线：交通运输部关于废止《货物多式联运术语》等33项交通运输行业标准的公告-政府信息公开-交通运输部 — https://xxgk.mot.gov.cn/jigou/kjs/202509/t20250910_4176464.html
+- 建立基线：交通运输部关于发布交通运输行业标准《零担货物道路运输服务规范》第1号修改单的公告-政府信息公开-交通运输部 — https://xxgk.mot.gov.cn/jigou/kjs/202607/t20260724_4210392.html
+- 建立基线：交通运输部关于发布《航道养护工程预算编制规定》及其配套定额的公告-政府信息公开-交通运输部 — https://xxgk.mot.gov.cn/jigou/syj/202006/t20200623_3314863.html
+- 建立基线：交通运输部关于《水运工程环境保护设计规范》(JTS 149-2018)局部修订的公告-政府信息公开-交通运输部 — https://xxgk.mot.gov.cn/jigou/syj/202006/t20200623_3314872.html
+- 建立基线：交通运输部关于废止《疏浚岩土分类标准》等6项水运工程建设行业标准的公告-政府信息公开-交通运输部 — https://xxgk.mot.gov.cn/jigou/syj/202101/t20210112_3514419.html
+- 建立基线：关于征求《液化天然气码头设计规范》局部修订(征求意见稿)意见的函-政府信息公开-交通运输部 — https://xxgk.mot.gov.cn/jigou/syj/202103/t20210308_3529860.html
+- 建立基线：交通运输部关于发布《内河航道绿色养护技术指南》的公告-政府信息公开-交通运输部 — https://xxgk.mot.gov.cn/jigou/syj/202105/t20210508_3587189.html
+- 建立基线：交通运输部关于发布《航道养护技术规范》的公告-政府信息公开-交通运输部 — https://xxgk.mot.gov.cn/jigou/syj/202106/t20210609_3609177.html
+- 建立基线：关于征求《内河液化天然气加气站码头设计规范(试行)》(JTS/T196-11-2021) 局部修订(征求意见稿)意见的函-政府信息公开-交通运输部 — https://xxgk.mot.gov.cn/jigou/syj/202107/t20210722_3612632.html
+- 建立基线：关于征求《港口工程荷载规范》(JTS 144-1-2010) 局部修订(作用于船舶上的水流力部分)(征求意见稿)意见的函-政府信息公开-交通运输部 — https://xxgk.mot.gov.cn/jigou/syj/202107/t20210722_3612637.html
+- 建立基线：关于征求《海港总体设计规范》局部修订(征求意见稿)意见的函-政府信息公开-交通运输部 — https://xxgk.mot.gov.cn/jigou/syj/202110/t20211019_3622320.html
+- 建立基线：交通运输部关于加强“十四五”期全国航道养护与管理工作的意见-政府信息公开-交通运输部 — https://xxgk.mot.gov.cn/jigou/syj/202111/t20211125_3628077.html
 
 ## 数据源健康
 
@@ -44,23 +44,23 @@
 | 正常 | https://xxgk.mot.gov.cn/jigou/glj/202606/t20260630_4208511.html | 已读取 |
 | 正常 | https://xxgk.mot.gov.cn/jigou/glj/202607/t20260710_4209312.html | 已读取 |
 | 正常 | https://xxgk.mot.gov.cn/jigou/glj/202609/t20260924_4224857.html | 已读取 |
-| 正常 | https://xxgk.mot.gov.cn/jigou/glj/202310/t20231012_3925562.html | 已读取 |
-| 正常 | https://xxgk.mot.gov.cn/jigou/glj/202310/t20231019_3928979.html | 已读取 |
-| 正常 | https://xxgk.mot.gov.cn/jigou/glj/202310/t20231019_3928980.html | 已读取 |
-| 正常 | https://xxgk.mot.gov.cn/jigou/glj/202311/t20231102_3938969.html | 已读取 |
-| 正常 | https://xxgk.mot.gov.cn/jigou/glj/202311/t20231115_3945750.html | 已读取 |
-| 正常 | https://xxgk.mot.gov.cn/jigou/glj/202311/t20231123_3952605.html | 已读取 |
-| 正常 | https://xxgk.mot.gov.cn/jigou/glj/202404/t20240428_4137587.html | 已读取 |
-| 正常 | https://xxgk.mot.gov.cn/jigou/glj/202406/t20240606_4142073.html | 已读取 |
-| 正常 | https://xxgk.mot.gov.cn/jigou/glj/202406/t20240606_4142075.html | 已读取 |
-| 正常 | https://xxgk.mot.gov.cn/jigou/glj/202501/t20250107_4162186.html | 已读取 |
-| 正常 | https://xxgk.mot.gov.cn/jigou/glj/202504/t20250414_4166925.html | 已读取 |
-| 正常 | https://xxgk.mot.gov.cn/jigou/glj/202510/t20251010_4177928.html | 已读取 |
-| 正常 | https://xxgk.mot.gov.cn/jigou/glj/202511/t20251113_4179759.html | 已读取 |
-| 正常 | https://xxgk.mot.gov.cn/jigou/glj/202512/t20251231_4194885.html | 已读取 |
-| 正常 | https://xxgk.mot.gov.cn/jigou/glj/202601/t20260129_4199276.html | 已读取 |
-| 正常 | https://xxgk.mot.gov.cn/jigou/glj/202604/t20260422_4204147.html | 已读取 |
-| 正常 | https://xxgk.mot.gov.cn/jigou/glj/202607/t20260708_4209139.html | 已读取 |
-| 正常 | https://xxgk.mot.gov.cn/jigou/glj/202607/t20260714_4209592.html | 已读取 |
-| 正常 | https://xxgk.mot.gov.cn/jigou/glj/202608/t20260803_4211001.html | 已读取 |
-| 正常 | https://xxgk.mot.gov.cn/jigou/glj/202608/t20260814_4219904.html | 已读取 |
+| 正常 | https://xxgk.mot.gov.cn/jigou/kjs/202006/t20200623_3317413.html | 已读取 |
+| 正常 | https://xxgk.mot.gov.cn/jigou/kjs/202106/t20210630_3610865.html | 已读取 |
+| 正常 | https://xxgk.mot.gov.cn/jigou/kjs/202111/t20211111_3625608.html | 已读取 |
+| 正常 | https://xxgk.mot.gov.cn/jigou/kjs/202201/t20220111_3635977.html | 已读取 |
+| 正常 | https://xxgk.mot.gov.cn/jigou/kjs/202207/t20220721_3661537.html | 已读取 |
+| 正常 | https://xxgk.mot.gov.cn/jigou/kjs/202405/t20240507_4138473.html | 已读取 |
+| 正常 | https://xxgk.mot.gov.cn/jigou/kjs/202407/t20240723_4145161.html | 已读取 |
+| 正常 | https://xxgk.mot.gov.cn/jigou/kjs/202504/t20250423_4167422.html | 已读取 |
+| 正常 | https://xxgk.mot.gov.cn/jigou/kjs/202509/t20250910_4176464.html | 已读取 |
+| 正常 | https://xxgk.mot.gov.cn/jigou/kjs/202607/t20260724_4210392.html | 已读取 |
+| 正常 | https://xxgk.mot.gov.cn/jigou/syj/202006/t20200623_3314863.html | 已读取 |
+| 正常 | https://xxgk.mot.gov.cn/jigou/syj/202006/t20200623_3314872.html | 已读取 |
+| 正常 | https://xxgk.mot.gov.cn/jigou/syj/202101/t20210112_3514419.html | 已读取 |
+| 正常 | https://xxgk.mot.gov.cn/jigou/syj/202103/t20210308_3529860.html | 已读取 |
+| 正常 | https://xxgk.mot.gov.cn/jigou/syj/202105/t20210508_3587189.html | 已读取 |
+| 正常 | https://xxgk.mot.gov.cn/jigou/syj/202106/t20210609_3609177.html | 已读取 |
+| 正常 | https://xxgk.mot.gov.cn/jigou/syj/202107/t20210722_3612632.html | 已读取 |
+| 正常 | https://xxgk.mot.gov.cn/jigou/syj/202107/t20210722_3612637.html | 已读取 |
+| 正常 | https://xxgk.mot.gov.cn/jigou/syj/202110/t20211019_3622320.html | 已读取 |
+| 正常 | https://xxgk.mot.gov.cn/jigou/syj/202111/t20211125_3628077.html | 已读取 |

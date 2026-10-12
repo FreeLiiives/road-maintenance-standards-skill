@@ -13,8 +13,8 @@
         "废止",
         "修订"
       ],
-      "last_attempt": "2026-10-05T07:10:13+00:00",
-      "last_success": "2026-10-05T07:10:13+00:00",
+      "last_attempt": "2026-10-12T07:27:05+00:00",
+      "last_success": "2026-10-12T07:27:05+00:00",
       "fetch_status": "ok"
     },
     "https://xxgk.mot.gov.cn/2020/jigou/glj/202006/t20200623_3313125.html": {
@@ -27,8 +27,8 @@
       "review_signals": [
         "计划"
       ],
-      "last_attempt": "2026-10-05T07:10:13+00:00",
-      "last_success": "2026-10-05T07:10:13+00:00",
+      "last_attempt": "2026-10-12T07:27:05+00:00",
+      "last_success": "2026-10-12T07:27:05+00:00",
       "fetch_status": "ok"
     },
     "https://xxgk.mot.gov.cn/2020/jigou/glj/202006/t20200623_3313189.html": {
@@ -42,8 +42,8 @@
       "review_signals": [
         "废止"
       ],
-      "last_attempt": "2026-10-05T07:10:13+00:00",
-      "last_success": "2026-10-05T07:10:13+00:00",
+      "last_attempt": "2026-10-12T07:27:05+00:00",
+      "last_success": "2026-10-12T07:27:05+00:00",
       "fetch_status": "ok"
     },
     "https://xxgk.mot.gov.cn/2020/jigou/glj/202311/t20231123_3952605.html": {
@@ -57,8 +57,8 @@
       "review_signals": [
         "废止"
       ],
-      "last_attempt": "2026-10-05T07:10:13+00:00",
-      "last_success": "2026-10-05T07:10:13+00:00",
+      "last_attempt": "2026-10-12T07:27:05+00:00",
+      "last_success": "2026-10-12T07:27:05+00:00",
       "fetch_status": "ok"
     },
     "https://xxgk.mot.gov.cn/jigou/glj/202006/t20200623_3313126.html": {
@@ -69,8 +69,8 @@
       ],
       "classification": "standard_identifier_detected",
       "review_signals": [],
-      "last_attempt": "2026-10-05T07:10:13+00:00",
-      "last_success": "2026-10-05T07:10:13+00:00",
+      "last_attempt": "2026-10-12T07:27:05+00:00",
+      "last_success": "2026-10-12T07:27:05+00:00",
       "fetch_status": "ok"
     },
     "https://xxgk.mot.gov.cn/jigou/glj/202604/t20260428_4204478.html": {
@@ -81,8 +81,8 @@
       ],
       "classification": "standard_identifier_detected",
       "review_signals": [],
-      "last_attempt": "2026-10-05T07:10:13+00:00",
-      "last_success": "2026-10-05T07:10:13+00:00",
+      "last_attempt": "2026-10-12T07:27:05+00:00",
+      "last_success": "2026-10-12T07:27:05+00:00",
       "fetch_status": "ok"
     },
     "https://xxgk.mot.gov.cn/jigou/glj/202606/t20260630_4208511.html": {
@@ -93,8 +93,8 @@
       ],
       "classification": "standard_identifier_detected",
       "review_signals": [],
-      "last_attempt": "2026-10-05T07:10:13+00:00",
-      "last_success": "2026-10-05T07:10:13+00:00",
+      "last_attempt": "2026-10-12T07:27:05+00:00",
+      "last_success": "2026-10-12T07:27:05+00:00",
       "fetch_status": "ok"
     },
     "https://xxgk.mot.gov.cn/jigou/glj/202607/t20260710_4209312.html": {
@@ -108,8 +108,8 @@
       "review_signals": [
         "废止"
       ],
-      "last_attempt": "2026-10-05T07:10:13+00:00",
-      "last_success": "2026-10-05T07:10:13+00:00",
+      "last_attempt": "2026-10-12T07:27:05+00:00",
+      "last_success": "2026-10-12T07:27:05+00:00",
       "fetch_status": "ok"
     },
     "https://xxgk.mot.gov.cn/jigou/glj/202609/t20260924_4224857.html": {
@@ -120,8 +120,8 @@
       ],
       "classification": "standard_identifier_detected",
       "review_signals": [],
-      "last_attempt": "2026-10-05T07:10:13+00:00",
-      "last_success": "2026-10-05T07:10:13+00:00",
+      "last_attempt": "2026-10-12T07:27:05+00:00",
+      "last_success": "2026-10-12T07:27:05+00:00",
       "fetch_status": "ok"
     },
     "https://xxgk.mot.gov.cn/jigou/cwsjs/202305/t20230531_3837620.html": {
@@ -890,6 +890,253 @@
       "last_attempt": "2026-10-05T07:10:13+00:00",
       "last_success": "2026-10-05T07:10:13+00:00",
       "fetch_status": "ok"
+    },
+    "https://xxgk.mot.gov.cn/jigou/kjs/202006/t20200623_3317413.html": {
+      "title": "交通运输部关于发布《低平板半挂车技术规范》等6项交通运输行业标准、《磁通量索力检测仪》等3项交通运输部部门计量检定规程和《营运客车类型划分及等级评定》第1号修改单的公告-政府信息公开-交通运输部",
+      "sha256": "60db3a3d31f62787fc2535999a1cd4a0f638f9d4d7bea68261b24be2935ebc03",
+      "detected_codes": [],
+      "classification": "manual_review_no_identifier",
+      "review_signals": [
+        "修改单"
+      ],
+      "last_attempt": "2026-10-12T07:27:05+00:00",
+      "last_success": "2026-10-12T07:27:05+00:00",
+      "fetch_status": "ok"
+    },
+    "https://xxgk.mot.gov.cn/jigou/kjs/202106/t20210630_3610865.html": {
+      "title": "交通运输部关于发布《机动车维修费用结算清单》等5项交通运输行业标准第1号修改单的公告-政府信息公开-交通运输部",
+      "sha256": "c1511112f74e263b56a8ae664c65d9987e3d1bdc174bc1200b168b3670326ef9",
+      "detected_codes": [],
+      "classification": "manual_review_no_identifier",
+      "review_signals": [
+        "修改单"
+      ],
+      "last_attempt": "2026-10-12T07:27:05+00:00",
+      "last_success": "2026-10-12T07:27:05+00:00",
+      "fetch_status": "ok"
+    },
+    "https://xxgk.mot.gov.cn/jigou/kjs/202111/t20211111_3625608.html": {
+      "title": "交通运输部关于发布《道路运输车辆卫星定位系统 车载终端技术要求》等2项交通运输行业标准第1号修改单的公告-政府信息公开-交通运输部",
+      "sha256": "8568ff2805afca318941ac59ad338f5e89d1e14477231c8ba4ef6ad3fa8b8c26",
+      "detected_codes": [],
+      "classification": "manual_review_no_identifier",
+      "review_signals": [
+        "修改单"
+      ],
+      "last_attempt": "2026-10-12T07:27:05+00:00",
+      "last_success": "2026-10-12T07:27:05+00:00",
+      "fetch_status": "ok"
+    },
+    "https://xxgk.mot.gov.cn/jigou/kjs/202201/t20220111_3635977.html": {
+      "title": "交通运输部办公厅关于组织开展公路路基路面长期性能科学观测网建设试点的通知-政府信息公开-交通运输部",
+      "sha256": "9896a4a1949938c35afd1d104f121906d73d95b28a99bd3ec741ab31d4bef04d",
+      "detected_codes": [],
+      "classification": "manual_review_no_identifier",
+      "review_signals": [
+        "计划"
+      ],
+      "last_attempt": "2026-10-12T07:27:05+00:00",
+      "last_success": "2026-10-12T07:27:05+00:00",
+      "fetch_status": "ok"
+    },
+    "https://xxgk.mot.gov.cn/jigou/kjs/202207/t20220721_3661537.html": {
+      "title": "交通运输部关于废止《移动式气缸镗床》等157项交通运输行业标准的公告-政府信息公开-交通运输部",
+      "sha256": "5048c2ac216338ad86da68eecf4e50ce92c59b77b710998d0f79fd874d403d41",
+      "detected_codes": [],
+      "classification": "manual_review_no_identifier",
+      "review_signals": [
+        "废止"
+      ],
+      "last_attempt": "2026-10-12T07:27:05+00:00",
+      "last_success": "2026-10-12T07:27:05+00:00",
+      "fetch_status": "ok"
+    },
+    "https://xxgk.mot.gov.cn/jigou/kjs/202405/t20240507_4138473.html": {
+      "title": "交通运输部关于发布《危险货物道路运输规则 第1部分:通则》等6项交通运输行业标准第1号修改单的公告-政府信息公开-交通运输部",
+      "sha256": "1bc723a7afb8289132bf6005113082ea7b764eed23db91ed878c2b585c9a56e5",
+      "detected_codes": [],
+      "classification": "manual_review_no_identifier",
+      "review_signals": [
+        "修改单"
+      ],
+      "last_attempt": "2026-10-12T07:27:05+00:00",
+      "last_success": "2026-10-12T07:27:05+00:00",
+      "fetch_status": "ok"
+    },
+    "https://xxgk.mot.gov.cn/jigou/kjs/202407/t20240723_4145161.html": {
+      "title": "交通运输部关于发布《旋转压实仪》等12项部门计量检定规程及《车载式路面激光平整度仪》等4项部门计量检定规程外文版的公告-政府信息公开-交通运输部",
+      "sha256": "af906d1bed6746d3b27c3653e625efc0c27014b4b0149e2f6e88968d52f93dfd",
+      "detected_codes": [],
+      "classification": "manual_review_no_identifier",
+      "review_signals": [],
+      "last_attempt": "2026-10-12T07:27:05+00:00",
+      "last_success": "2026-10-12T07:27:05+00:00",
+      "fetch_status": "ok"
+    },
+    "https://xxgk.mot.gov.cn/jigou/kjs/202504/t20250423_4167422.html": {
+      "title": "交通运输部关于发布《营运客车安全技术条件》等5项交通运输行业标准第1号修改单的公告-政府信息公开-交通运输部",
+      "sha256": "b07a4738b885622ea071e5c06dbfeac783d3d1824d4105cb7c6d198cc0d9e95e",
+      "detected_codes": [],
+      "classification": "manual_review_no_identifier",
+      "review_signals": [
+        "修改单"
+      ],
+      "last_attempt": "2026-10-12T07:27:05+00:00",
+      "last_success": "2026-10-12T07:27:05+00:00",
+      "fetch_status": "ok"
+    },
+    "https://xxgk.mot.gov.cn/jigou/kjs/202509/t20250910_4176464.html": {
+      "title": "交通运输部关于废止《货物多式联运术语》等33项交通运输行业标准的公告-政府信息公开-交通运输部",
+      "sha256": "ac9448012c9c03bca009a81ae5178c0445141bdd605aeaddf653090782a00499",
+      "detected_codes": [],
+      "classification": "manual_review_no_identifier",
+      "review_signals": [
+        "废止"
+      ],
+      "last_attempt": "2026-10-12T07:27:05+00:00",
+      "last_success": "2026-10-12T07:27:05+00:00",
+      "fetch_status": "ok"
+    },
+    "https://xxgk.mot.gov.cn/jigou/kjs/202607/t20260724_4210392.html": {
+      "title": "交通运输部关于发布交通运输行业标准《零担货物道路运输服务规范》第1号修改单的公告-政府信息公开-交通运输部",
+      "sha256": "51d5a9fab0d8faa00bbc11d8f0c27aee7243e222c3a90cd80517d1352fff8179",
+      "detected_codes": [],
+      "classification": "manual_review_no_identifier",
+      "review_signals": [
+        "修改单"
+      ],
+      "last_attempt": "2026-10-12T07:27:05+00:00",
+      "last_success": "2026-10-12T07:27:05+00:00",
+      "fetch_status": "ok"
+    },
+    "https://xxgk.mot.gov.cn/jigou/syj/202006/t20200623_3314863.html": {
+      "title": "交通运输部关于发布《航道养护工程预算编制规定》及其配套定额的公告-政府信息公开-交通运输部",
+      "sha256": "69d4f7d7af5acdcfa37b1bfe9d2897bbf70a4399b88f4259a4d19f8b8d3b5c71",
+      "detected_codes": [],
+      "classification": "manual_review_no_identifier",
+      "review_signals": [],
+      "last_attempt": "2026-10-12T07:27:05+00:00",
+      "last_success": "2026-10-12T07:27:05+00:00",
+      "fetch_status": "ok"
+    },
+    "https://xxgk.mot.gov.cn/jigou/syj/202006/t20200623_3314872.html": {
+      "title": "交通运输部关于《水运工程环境保护设计规范》(JTS 149-2018)局部修订的公告-政府信息公开-交通运输部",
+      "sha256": "9aa25a42e8a1072645ca16b2a3632588739dddf82b2b7191701e6e7dd50ff28b",
+      "detected_codes": [
+        "GB3552—2018"
+      ],
+      "classification": "standard_identifier_detected",
+      "review_signals": [
+        "修订"
+      ],
+      "last_attempt": "2026-10-12T07:27:05+00:00",
+      "last_success": "2026-10-12T07:27:05+00:00",
+      "fetch_status": "ok"
+    },
+    "https://xxgk.mot.gov.cn/jigou/syj/202101/t20210112_3514419.html": {
+      "title": "交通运输部关于废止《疏浚岩土分类标准》等6项水运工程建设行业标准的公告-政府信息公开-交通运输部",
+      "sha256": "e444efac09119f09a87b00a3369784b7730ec1ed47937a47d90bf8b1ceeec2bf",
+      "detected_codes": [],
+      "classification": "manual_review_no_identifier",
+      "review_signals": [
+        "废止"
+      ],
+      "last_attempt": "2026-10-12T07:27:05+00:00",
+      "last_success": "2026-10-12T07:27:05+00:00",
+      "fetch_status": "ok"
+    },
+    "https://xxgk.mot.gov.cn/jigou/syj/202103/t20210308_3529860.html": {
+      "title": "关于征求《液化天然气码头设计规范》局部修订(征求意见稿)意见的函-政府信息公开-交通运输部",
+      "sha256": "cfb611345639ed6f603224fe02ed366e74b15f9480c8d8ee1d6c1672779c52f0",
+      "detected_codes": [],
+      "classification": "manual_review_no_identifier",
+      "review_signals": [
+        "修订",
+        "征求意见",
+        "计划"
+      ],
+      "last_attempt": "2026-10-12T07:27:05+00:00",
+      "last_success": "2026-10-12T07:27:05+00:00",
+      "fetch_status": "ok"
+    },
+    "https://xxgk.mot.gov.cn/jigou/syj/202105/t20210508_3587189.html": {
+      "title": "交通运输部关于发布《内河航道绿色养护技术指南》的公告-政府信息公开-交通运输部",
+      "sha256": "46964ce9c48443d1f9335a69a54ee4604af97a3235be1174b768cd8c47ff542a",
+      "detected_codes": [],
+      "classification": "manual_review_no_identifier",
+      "review_signals": [],
+      "last_attempt": "2026-10-12T07:27:05+00:00",
+      "last_success": "2026-10-12T07:27:05+00:00",
+      "fetch_status": "ok"
+    },
+    "https://xxgk.mot.gov.cn/jigou/syj/202106/t20210609_3609177.html": {
+      "title": "交通运输部关于发布《航道养护技术规范》的公告-政府信息公开-交通运输部",
+      "sha256": "ff392294a5f2ca14d3feb642b474df95f0e5cf17729f4a1fe812f4fb20ac1ab3",
+      "detected_codes": [
+        "JTJ 287—2005"
+      ],
+      "classification": "standard_identifier_detected",
+      "review_signals": [
+        "废止"
+      ],
+      "last_attempt": "2026-10-12T07:27:05+00:00",
+      "last_success": "2026-10-12T07:27:05+00:00",
+      "fetch_status": "ok"
+    },
+    "https://xxgk.mot.gov.cn/jigou/syj/202107/t20210722_3612632.html": {
+      "title": "关于征求《内河液化天然气加气站码头设计规范(试行)》(JTS/T196-11-2021) 局部修订(征求意见稿)意见的函-政府信息公开-交通运输部",
+      "sha256": "2627a7e5e1a02ed5b389fa14aac4224fc3f3a87da1adc1bd54d38181b0928d59",
+      "detected_codes": [],
+      "classification": "manual_review_no_identifier",
+      "review_signals": [
+        "修订",
+        "征求意见",
+        "计划"
+      ],
+      "last_attempt": "2026-10-12T07:27:05+00:00",
+      "last_success": "2026-10-12T07:27:05+00:00",
+      "fetch_status": "ok"
+    },
+    "https://xxgk.mot.gov.cn/jigou/syj/202107/t20210722_3612637.html": {
+      "title": "关于征求《港口工程荷载规范》(JTS 144-1-2010) 局部修订(作用于船舶上的水流力部分)(征求意见稿)意见的函-政府信息公开-交通运输部",
+      "sha256": "ceb8ceeec75c9f70fd396d83c274f71755f92c0bfd17f544bd135f4d5d4f838d",
+      "detected_codes": [],
+      "classification": "manual_review_no_identifier",
+      "review_signals": [
+        "修订",
+        "征求意见",
+        "计划"
+      ],
+      "last_attempt": "2026-10-12T07:27:05+00:00",
+      "last_success": "2026-10-12T07:27:05+00:00",
+      "fetch_status": "ok"
+    },
+    "https://xxgk.mot.gov.cn/jigou/syj/202110/t20211019_3622320.html": {
+      "title": "关于征求《海港总体设计规范》局部修订(征求意见稿)意见的函-政府信息公开-交通运输部",
+      "sha256": "44c8b582179921e8542e10d3a26267cd97d244cfef841dd580623357265cf804",
+      "detected_codes": [],
+      "classification": "manual_review_no_identifier",
+      "review_signals": [
+        "修订",
+        "征求意见",
+        "计划"
+      ],
+      "last_attempt": "2026-10-12T07:27:05+00:00",
+      "last_success": "2026-10-12T07:27:05+00:00",
+      "fetch_status": "ok"
+    },
+    "https://xxgk.mot.gov.cn/jigou/syj/202111/t20211125_3628077.html": {
+      "title": "交通运输部关于加强“十四五”期全国航道养护与管理工作的意见-政府信息公开-交通运输部",
+      "sha256": "71eef0f2f6fb92e4fe1923c586e72d0d4a1ec35db54437c9589eea2aeb1cf384",
+      "detected_codes": [],
+      "classification": "manual_review_no_identifier",
+      "review_signals": [
+        "修订",
+        "计划"
+      ],
+      "last_attempt": "2026-10-12T07:27:05+00:00",
+      "last_success": "2026-10-12T07:27:05+00:00",
+      "fetch_status": "ok"
     }
   },
   "candidates": {
@@ -1359,7 +1606,7 @@
       "review_status": "unreviewed"
     }
   },
-  "last_run": "2026-10-05T07:10:13+00:00",
+  "last_run": "2026-10-12T07:27:05+00:00",
   "health": [
     {
       "source": "mot-standards",
@@ -1420,102 +1667,102 @@
     },
     {
       "source": "announcement",
-      "url": "https://xxgk.mot.gov.cn/jigou/glj/202310/t20231012_3925562.html",
+      "url": "https://xxgk.mot.gov.cn/jigou/kjs/202006/t20200623_3317413.html",
       "ok": true
     },
     {
       "source": "announcement",
-      "url": "https://xxgk.mot.gov.cn/jigou/glj/202310/t20231019_3928979.html",
+      "url": "https://xxgk.mot.gov.cn/jigou/kjs/202106/t20210630_3610865.html",
       "ok": true
     },
     {
       "source": "announcement",
-      "url": "https://xxgk.mot.gov.cn/jigou/glj/202310/t20231019_3928980.html",
+      "url": "https://xxgk.mot.gov.cn/jigou/kjs/202111/t20211111_3625608.html",
       "ok": true
     },
     {
       "source": "announcement",
-      "url": "https://xxgk.mot.gov.cn/jigou/glj/202311/t20231102_3938969.html",
+      "url": "https://xxgk.mot.gov.cn/jigou/kjs/202201/t20220111_3635977.html",
       "ok": true
     },
     {
       "source": "announcement",
-      "url": "https://xxgk.mot.gov.cn/jigou/glj/202311/t20231115_3945750.html",
+      "url": "https://xxgk.mot.gov.cn/jigou/kjs/202207/t20220721_3661537.html",
       "ok": true
     },
     {
       "source": "announcement",
-      "url": "https://xxgk.mot.gov.cn/jigou/glj/202311/t20231123_3952605.html",
+      "url": "https://xxgk.mot.gov.cn/jigou/kjs/202405/t20240507_4138473.html",
       "ok": true
     },
     {
       "source": "announcement",
-      "url": "https://xxgk.mot.gov.cn/jigou/glj/202404/t20240428_4137587.html",
+      "url": "https://xxgk.mot.gov.cn/jigou/kjs/202407/t20240723_4145161.html",
       "ok": true
     },
     {
       "source": "announcement",
-      "url": "https://xxgk.mot.gov.cn/jigou/glj/202406/t20240606_4142073.html",
+      "url": "https://xxgk.mot.gov.cn/jigou/kjs/202504/t20250423_4167422.html",
       "ok": true
     },
     {
       "source": "announcement",
-      "url": "https://xxgk.mot.gov.cn/jigou/glj/202406/t20240606_4142075.html",
+      "url": "https://xxgk.mot.gov.cn/jigou/kjs/202509/t20250910_4176464.html",
       "ok": true
     },
     {
       "source": "announcement",
-      "url": "https://xxgk.mot.gov.cn/jigou/glj/202501/t20250107_4162186.html",
+      "url": "https://xxgk.mot.gov.cn/jigou/kjs/202607/t20260724_4210392.html",
       "ok": true
     },
     {
       "source": "announcement",
-      "url": "https://xxgk.mot.gov.cn/jigou/glj/202504/t20250414_4166925.html",
+      "url": "https://xxgk.mot.gov.cn/jigou/syj/202006/t20200623_3314863.html",
       "ok": true
     },
     {
       "source": "announcement",
-      "url": "https://xxgk.mot.gov.cn/jigou/glj/202510/t20251010_4177928.html",
+      "url": "https://xxgk.mot.gov.cn/jigou/syj/202006/t20200623_3314872.html",
       "ok": true
     },
     {
       "source": "announcement",
-      "url": "https://xxgk.mot.gov.cn/jigou/glj/202511/t20251113_4179759.html",
+      "url": "https://xxgk.mot.gov.cn/jigou/syj/202101/t20210112_3514419.html",
       "ok": true
     },
     {
       "source": "announcement",
-      "url": "https://xxgk.mot.gov.cn/jigou/glj/202512/t20251231_4194885.html",
+      "url": "https://xxgk.mot.gov.cn/jigou/syj/202103/t20210308_3529860.html",
       "ok": true
     },
     {
       "source": "announcement",
-      "url": "https://xxgk.mot.gov.cn/jigou/glj/202601/t20260129_4199276.html",
+      "url": "https://xxgk.mot.gov.cn/jigou/syj/202105/t20210508_3587189.html",
       "ok": true
     },
     {
       "source": "announcement",
-      "url": "https://xxgk.mot.gov.cn/jigou/glj/202604/t20260422_4204147.html",
+      "url": "https://xxgk.mot.gov.cn/jigou/syj/202106/t20210609_3609177.html",
       "ok": true
     },
     {
       "source": "announcement",
-      "url": "https://xxgk.mot.gov.cn/jigou/glj/202607/t20260708_4209139.html",
+      "url": "https://xxgk.mot.gov.cn/jigou/syj/202107/t20210722_3612632.html",
       "ok": true
     },
     {
       "source": "announcement",
-      "url": "https://xxgk.mot.gov.cn/jigou/glj/202607/t20260714_4209592.html",
+      "url": "https://xxgk.mot.gov.cn/jigou/syj/202107/t20210722_3612637.html",
       "ok": true
     },
     {
       "source": "announcement",
-      "url": "https://xxgk.mot.gov.cn/jigou/glj/202608/t20260803_4211001.html",
+      "url": "https://xxgk.mot.gov.cn/jigou/syj/202110/t20211019_3622320.html",
       "ok": true
     },
     {
       "source": "announcement",
-      "url": "https://xxgk.mot.gov.cn/jigou/glj/202608/t20260814_4219904.html",
+      "url": "https://xxgk.mot.gov.cn/jigou/syj/202111/t20211125_3628077.html",
       "ok": true
     }
   ]
