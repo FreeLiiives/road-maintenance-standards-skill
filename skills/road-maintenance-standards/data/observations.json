@@ -13,8 +13,8 @@
         "废止",
         "修订"
       ],
-      "last_attempt": "2026-11-02T07:44:47+00:00",
-      "last_success": "2026-11-02T07:44:47+00:00",
+      "last_attempt": "2026-11-09T08:05:34+00:00",
+      "last_success": "2026-11-09T08:05:34+00:00",
       "fetch_status": "ok"
     },
     "https://xxgk.mot.gov.cn/2020/jigou/glj/202006/t20200623_3313125.html": {
@@ -27,8 +27,8 @@
       "review_signals": [
         "计划"
       ],
-      "last_attempt": "2026-11-02T07:44:47+00:00",
-      "last_success": "2026-11-02T07:44:47+00:00",
+      "last_attempt": "2026-11-09T08:05:34+00:00",
+      "last_success": "2026-11-09T08:05:34+00:00",
       "fetch_status": "ok"
     },
     "https://xxgk.mot.gov.cn/2020/jigou/glj/202006/t20200623_3313189.html": {
@@ -42,8 +42,8 @@
       "review_signals": [
         "废止"
       ],
-      "last_attempt": "2026-11-02T07:44:47+00:00",
-      "last_success": "2026-11-02T07:44:47+00:00",
+      "last_attempt": "2026-11-09T08:05:34+00:00",
+      "last_success": "2026-11-09T08:05:34+00:00",
       "fetch_status": "ok"
     },
     "https://xxgk.mot.gov.cn/2020/jigou/glj/202311/t20231123_3952605.html": {
@@ -57,8 +57,8 @@
       "review_signals": [
         "废止"
       ],
-      "last_attempt": "2026-11-02T07:44:47+00:00",
-      "last_success": "2026-11-02T07:44:47+00:00",
+      "last_attempt": "2026-11-09T08:05:34+00:00",
+      "last_success": "2026-11-09T08:05:34+00:00",
       "fetch_status": "ok"
     },
     "https://xxgk.mot.gov.cn/jigou/glj/202006/t20200623_3313126.html": {
@@ -69,8 +69,8 @@
       ],
       "classification": "standard_identifier_detected",
       "review_signals": [],
-      "last_attempt": "2026-11-02T07:44:47+00:00",
-      "last_success": "2026-11-02T07:44:47+00:00",
+      "last_attempt": "2026-11-09T08:05:34+00:00",
+      "last_success": "2026-11-09T08:05:34+00:00",
       "fetch_status": "ok"
     },
     "https://xxgk.mot.gov.cn/jigou/glj/202604/t20260428_4204478.html": {
@@ -81,8 +81,8 @@
       ],
       "classification": "standard_identifier_detected",
       "review_signals": [],
-      "last_attempt": "2026-11-02T07:44:47+00:00",
-      "last_success": "2026-11-02T07:44:47+00:00",
+      "last_attempt": "2026-11-09T08:05:34+00:00",
+      "last_success": "2026-11-09T08:05:34+00:00",
       "fetch_status": "ok"
     },
     "https://xxgk.mot.gov.cn/jigou/glj/202606/t20260630_4208511.html": {
@@ -93,8 +93,8 @@
       ],
       "classification": "standard_identifier_detected",
       "review_signals": [],
-      "last_attempt": "2026-11-02T07:44:47+00:00",
-      "last_success": "2026-11-02T07:44:47+00:00",
+      "last_attempt": "2026-11-09T08:05:34+00:00",
+      "last_success": "2026-11-09T08:05:34+00:00",
       "fetch_status": "ok"
     },
     "https://xxgk.mot.gov.cn/jigou/glj/202607/t20260710_4209312.html": {
@@ -108,8 +108,8 @@
       "review_signals": [
         "废止"
       ],
-      "last_attempt": "2026-11-02T07:44:47+00:00",
-      "last_success": "2026-11-02T07:44:47+00:00",
+      "last_attempt": "2026-11-09T08:05:34+00:00",
+      "last_success": "2026-11-09T08:05:34+00:00",
       "fetch_status": "ok"
     },
     "https://xxgk.mot.gov.cn/jigou/glj/202609/t20260924_4224857.html": {
@@ -120,8 +120,8 @@
       ],
       "classification": "standard_identifier_detected",
       "review_signals": [],
-      "last_attempt": "2026-11-02T07:44:47+00:00",
-      "last_success": "2026-11-02T07:44:47+00:00",
+      "last_attempt": "2026-11-09T08:05:34+00:00",
+      "last_success": "2026-11-09T08:05:34+00:00",
       "fetch_status": "ok"
     },
     "https://xxgk.mot.gov.cn/jigou/cwsjs/202305/t20230531_3837620.html": {
@@ -755,8 +755,8 @@
       "review_signals": [
         "废止"
       ],
-      "last_attempt": "2026-10-05T07:10:13+00:00",
-      "last_success": "2026-10-05T07:10:13+00:00",
+      "last_attempt": "2026-11-09T08:05:34+00:00",
+      "last_success": "2026-11-09T08:05:34+00:00",
       "fetch_status": "ok"
     },
     "https://xxgk.mot.gov.cn/jigou/glj/202404/t20240428_4137587.html": {
@@ -765,8 +765,8 @@
       "detected_codes": [],
       "classification": "manual_review_no_identifier",
       "review_signals": [],
-      "last_attempt": "2026-10-05T07:10:13+00:00",
-      "last_success": "2026-10-05T07:10:13+00:00",
+      "last_attempt": "2026-11-09T08:05:34+00:00",
+      "last_success": "2026-11-09T08:05:34+00:00",
       "fetch_status": "ok"
     },
     "https://xxgk.mot.gov.cn/jigou/glj/202406/t20240606_4142073.html": {
@@ -778,8 +778,8 @@
       ],
       "classification": "standard_identifier_detected",
       "review_signals": [],
-      "last_attempt": "2026-10-05T07:10:13+00:00",
-      "last_success": "2026-10-05T07:10:13+00:00",
+      "last_attempt": "2026-11-09T08:05:34+00:00",
+      "last_success": "2026-11-09T08:05:34+00:00",
       "fetch_status": "ok"
     },
     "https://xxgk.mot.gov.cn/jigou/glj/202406/t20240606_4142075.html": {
@@ -790,8 +790,8 @@
       ],
       "classification": "standard_identifier_detected",
       "review_signals": [],
-      "last_attempt": "2026-10-05T07:10:13+00:00",
-      "last_success": "2026-10-05T07:10:13+00:00",
+      "last_attempt": "2026-11-09T08:05:34+00:00",
+      "last_success": "2026-11-09T08:05:34+00:00",
       "fetch_status": "ok"
     },
     "https://xxgk.mot.gov.cn/jigou/glj/202501/t20250107_4162186.html": {
@@ -802,8 +802,8 @@
       ],
       "classification": "standard_identifier_detected",
       "review_signals": [],
-      "last_attempt": "2026-10-05T07:10:13+00:00",
-      "last_success": "2026-10-05T07:10:13+00:00",
+      "last_attempt": "2026-11-09T08:05:34+00:00",
+      "last_success": "2026-11-09T08:05:34+00:00",
       "fetch_status": "ok"
     },
     "https://xxgk.mot.gov.cn/jigou/glj/202504/t20250414_4166925.html": {
@@ -812,8 +812,8 @@
       "detected_codes": [],
       "classification": "manual_review_no_identifier",
       "review_signals": [],
-      "last_attempt": "2026-10-05T07:10:13+00:00",
-      "last_success": "2026-10-05T07:10:13+00:00",
+      "last_attempt": "2026-11-09T08:05:34+00:00",
+      "last_success": "2026-11-09T08:05:34+00:00",
       "fetch_status": "ok"
     },
     "https://xxgk.mot.gov.cn/jigou/glj/202510/t20251010_4177928.html": {
@@ -824,8 +824,8 @@
       "review_signals": [
         "修订"
       ],
-      "last_attempt": "2026-10-05T07:10:13+00:00",
-      "last_success": "2026-10-05T07:10:13+00:00",
+      "last_attempt": "2026-11-09T08:05:34+00:00",
+      "last_success": "2026-11-09T08:05:34+00:00",
       "fetch_status": "ok"
     },
     "https://xxgk.mot.gov.cn/jigou/glj/202511/t20251113_4179759.html": {
@@ -834,8 +834,8 @@
       "detected_codes": [],
       "classification": "manual_review_no_identifier",
       "review_signals": [],
-      "last_attempt": "2026-10-05T07:10:13+00:00",
-      "last_success": "2026-10-05T07:10:13+00:00",
+      "last_attempt": "2026-11-09T08:05:34+00:00",
+      "last_success": "2026-11-09T08:05:34+00:00",
       "fetch_status": "ok"
     },
     "https://xxgk.mot.gov.cn/jigou/glj/202512/t20251231_4194885.html": {
@@ -846,8 +846,8 @@
       ],
       "classification": "standard_identifier_detected",
       "review_signals": [],
-      "last_attempt": "2026-10-05T07:10:13+00:00",
-      "last_success": "2026-10-05T07:10:13+00:00",
+      "last_attempt": "2026-11-09T08:05:34+00:00",
+      "last_success": "2026-11-09T08:05:34+00:00",
       "fetch_status": "ok"
     },
     "https://xxgk.mot.gov.cn/jigou/glj/202601/t20260129_4199276.html": {
@@ -858,8 +858,8 @@
       ],
       "classification": "standard_identifier_detected",
       "review_signals": [],
-      "last_attempt": "2026-10-05T07:10:13+00:00",
-      "last_success": "2026-10-05T07:10:13+00:00",
+      "last_attempt": "2026-11-09T08:05:34+00:00",
+      "last_success": "2026-11-09T08:05:34+00:00",
       "fetch_status": "ok"
     },
     "https://xxgk.mot.gov.cn/jigou/glj/202604/t20260422_4204147.html": {
@@ -872,8 +872,8 @@
       "review_signals": [
         "废止"
       ],
-      "last_attempt": "2026-10-05T07:10:13+00:00",
-      "last_success": "2026-10-05T07:10:13+00:00",
+      "last_attempt": "2026-11-09T08:05:34+00:00",
+      "last_success": "2026-11-09T08:05:34+00:00",
       "fetch_status": "ok"
     },
     "https://xxgk.mot.gov.cn/jigou/glj/202607/t20260708_4209139.html": {
@@ -885,8 +885,8 @@
       ],
       "classification": "standard_identifier_detected",
       "review_signals": [],
-      "last_attempt": "2026-10-05T07:10:13+00:00",
-      "last_success": "2026-10-05T07:10:13+00:00",
+      "last_attempt": "2026-11-09T08:05:34+00:00",
+      "last_success": "2026-11-09T08:05:34+00:00",
       "fetch_status": "ok"
     },
     "https://xxgk.mot.gov.cn/jigou/glj/202607/t20260714_4209592.html": {
@@ -900,8 +900,8 @@
       "review_signals": [
         "废止"
       ],
-      "last_attempt": "2026-10-05T07:10:13+00:00",
-      "last_success": "2026-10-05T07:10:13+00:00",
+      "last_attempt": "2026-11-09T08:05:34+00:00",
+      "last_success": "2026-11-09T08:05:34+00:00",
       "fetch_status": "ok"
     },
     "https://xxgk.mot.gov.cn/jigou/glj/202608/t20260803_4211001.html": {
@@ -915,8 +915,8 @@
       "review_signals": [
         "废止"
       ],
-      "last_attempt": "2026-10-05T07:10:13+00:00",
-      "last_success": "2026-10-05T07:10:13+00:00",
+      "last_attempt": "2026-11-09T08:05:34+00:00",
+      "last_success": "2026-11-09T08:05:34+00:00",
       "fetch_status": "ok"
     },
     "https://xxgk.mot.gov.cn/jigou/glj/202608/t20260814_4219904.html": {
@@ -928,8 +928,8 @@
       ],
       "classification": "standard_identifier_detected",
       "review_signals": [],
-      "last_attempt": "2026-10-05T07:10:13+00:00",
-      "last_success": "2026-10-05T07:10:13+00:00",
+      "last_attempt": "2026-11-09T08:05:34+00:00",
+      "last_success": "2026-11-09T08:05:34+00:00",
       "fetch_status": "ok"
     },
     "https://xxgk.mot.gov.cn/jigou/kjs/202006/t20200623_3317413.html": {
@@ -940,8 +940,8 @@
       "review_signals": [
         "修改单"
       ],
-      "last_attempt": "2026-10-12T07:27:05+00:00",
-      "last_success": "2026-10-12T07:27:05+00:00",
+      "last_attempt": "2026-11-09T08:05:34+00:00",
+      "last_success": "2026-11-09T08:05:34+00:00",
       "fetch_status": "ok"
     },
     "https://xxgk.mot.gov.cn/jigou/kjs/202106/t20210630_3610865.html": {
@@ -952,8 +952,8 @@
       "review_signals": [
         "修改单"
       ],
-      "last_attempt": "2026-10-12T07:27:05+00:00",
-      "last_success": "2026-10-12T07:27:05+00:00",
+      "last_attempt": "2026-11-09T08:05:34+00:00",
+      "last_success": "2026-11-09T08:05:34+00:00",
       "fetch_status": "ok"
     },
     "https://xxgk.mot.gov.cn/jigou/kjs/202111/t20211111_3625608.html": {
@@ -964,8 +964,8 @@
       "review_signals": [
         "修改单"
       ],
-      "last_attempt": "2026-10-12T07:27:05+00:00",
-      "last_success": "2026-10-12T07:27:05+00:00",
+      "last_attempt": "2026-11-09T08:05:34+00:00",
+      "last_success": "2026-11-09T08:05:34+00:00",
       "fetch_status": "ok"
     },
     "https://xxgk.mot.gov.cn/jigou/kjs/202201/t20220111_3635977.html": {
@@ -976,8 +976,8 @@
       "review_signals": [
         "计划"
       ],
-      "last_attempt": "2026-10-12T07:27:05+00:00",
-      "last_success": "2026-10-12T07:27:05+00:00",
+      "last_attempt": "2026-11-09T08:05:34+00:00",
+      "last_success": "2026-11-09T08:05:34+00:00",
       "fetch_status": "ok"
     },
     "https://xxgk.mot.gov.cn/jigou/kjs/202207/t20220721_3661537.html": {
@@ -988,8 +988,8 @@
       "review_signals": [
         "废止"
       ],
-      "last_attempt": "2026-10-12T07:27:05+00:00",
-      "last_success": "2026-10-12T07:27:05+00:00",
+      "last_attempt": "2026-11-09T08:05:34+00:00",
+      "last_success": "2026-11-09T08:05:34+00:00",
       "fetch_status": "ok"
     },
     "https://xxgk.mot.gov.cn/jigou/kjs/202405/t20240507_4138473.html": {
@@ -1838,7 +1838,7 @@
       "review_status": "unreviewed"
     }
   },
-  "last_run": "2026-11-02T07:44:47+00:00",
+  "last_run": "2026-11-09T08:05:34+00:00",
   "health": [
     {
       "source": "mot-standards",
@@ -1899,102 +1899,102 @@
     },
     {
       "source": "announcement",
-      "url": "https://xxgk.mot.gov.cn/jigou/glj/202108/t20210825_3616530.html",
+      "url": "https://xxgk.mot.gov.cn/jigou/glj/202311/t20231123_3952605.html",
       "ok": true
     },
     {
       "source": "announcement",
-      "url": "https://xxgk.mot.gov.cn/jigou/glj/202108/t20210827_3616775.html",
+      "url": "https://xxgk.mot.gov.cn/jigou/glj/202404/t20240428_4137587.html",
       "ok": true
     },
     {
       "source": "announcement",
-      "url": "https://xxgk.mot.gov.cn/jigou/glj/202110/t20211026_3623037.html",
+      "url": "https://xxgk.mot.gov.cn/jigou/glj/202406/t20240606_4142073.html",
       "ok": true
     },
     {
       "source": "announcement",
-      "url": "https://xxgk.mot.gov.cn/jigou/glj/202112/t20211209_3630469.html",
+      "url": "https://xxgk.mot.gov.cn/jigou/glj/202406/t20240606_4142075.html",
       "ok": true
     },
     {
       "source": "announcement",
-      "url": "https://xxgk.mot.gov.cn/jigou/glj/202112/t20211228_3633603.html",
+      "url": "https://xxgk.mot.gov.cn/jigou/glj/202501/t20250107_4162186.html",
       "ok": true
     },
     {
       "source": "announcement",
-      "url": "https://xxgk.mot.gov.cn/jigou/glj/202201/t20220111_3635916.html",
+      "url": "https://xxgk.mot.gov.cn/jigou/glj/202504/t20250414_4166925.html",
       "ok": true
     },
     {
       "source": "announcement",
-      "url": "https://xxgk.mot.gov.cn/jigou/glj/202204/t20220425_3652738.html",
+      "url": "https://xxgk.mot.gov.cn/jigou/glj/202510/t20251010_4177928.html",
       "ok": true
     },
     {
       "source": "announcement",
-      "url": "https://xxgk.mot.gov.cn/jigou/glj/202204/t20220425_3652831.html",
+      "url": "https://xxgk.mot.gov.cn/jigou/glj/202511/t20251113_4179759.html",
       "ok": true
     },
     {
       "source": "announcement",
-      "url": "https://xxgk.mot.gov.cn/jigou/glj/202204/t20220426_3652905.html",
+      "url": "https://xxgk.mot.gov.cn/jigou/glj/202512/t20251231_4194885.html",
       "ok": true
     },
     {
       "source": "announcement",
-      "url": "https://xxgk.mot.gov.cn/jigou/glj/202207/t20220729_3662018.html",
+      "url": "https://xxgk.mot.gov.cn/jigou/glj/202601/t20260129_4199276.html",
       "ok": true
     },
     {
       "source": "announcement",
-      "url": "https://xxgk.mot.gov.cn/jigou/glj/202209/t20220913_3679720.html",
+      "url": "https://xxgk.mot.gov.cn/jigou/glj/202604/t20260422_4204147.html",
       "ok": true
     },
     {
       "source": "announcement",
-      "url": "https://xxgk.mot.gov.cn/jigou/glj/202303/t20230330_3784554.html",
+      "url": "https://xxgk.mot.gov.cn/jigou/glj/202607/t20260708_4209139.html",
       "ok": true
     },
     {
       "source": "announcement",
-      "url": "https://xxgk.mot.gov.cn/jigou/glj/202304/t20230407_3790364.html",
+      "url": "https://xxgk.mot.gov.cn/jigou/glj/202607/t20260714_4209592.html",
       "ok": true
     },
     {
       "source": "announcement",
-      "url": "https://xxgk.mot.gov.cn/jigou/glj/202304/t20230414_3798665.html",
+      "url": "https://xxgk.mot.gov.cn/jigou/glj/202608/t20260803_4211001.html",
       "ok": true
     },
     {
       "source": "announcement",
-      "url": "https://xxgk.mot.gov.cn/jigou/glj/202310/t20231008_3924625.html",
+      "url": "https://xxgk.mot.gov.cn/jigou/glj/202608/t20260814_4219904.html",
       "ok": true
     },
     {
       "source": "announcement",
-      "url": "https://xxgk.mot.gov.cn/jigou/glj/202310/t20231012_3925562.html",
+      "url": "https://xxgk.mot.gov.cn/jigou/kjs/202006/t20200623_3317413.html",
       "ok": true
     },
     {
       "source": "announcement",
-      "url": "https://xxgk.mot.gov.cn/jigou/glj/202310/t20231019_3928979.html",
+      "url": "https://xxgk.mot.gov.cn/jigou/kjs/202106/t20210630_3610865.html",
       "ok": true
     },
     {
       "source": "announcement",
-      "url": "https://xxgk.mot.gov.cn/jigou/glj/202310/t20231019_3928980.html",
+      "url": "https://xxgk.mot.gov.cn/jigou/kjs/202111/t20211111_3625608.html",
       "ok": true
     },
     {
       "source": "announcement",
-      "url": "https://xxgk.mot.gov.cn/jigou/glj/202311/t20231102_3938969.html",
+      "url": "https://xxgk.mot.gov.cn/jigou/kjs/202201/t20220111_3635977.html",
       "ok": true
     },
     {
       "source": "announcement",
-      "url": "https://xxgk.mot.gov.cn/jigou/glj/202311/t20231115_3945750.html",
+      "url": "https://xxgk.mot.gov.cn/jigou/kjs/202207/t20220721_3661537.html",
       "ok": true
     }
   ]
