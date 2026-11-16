@@ -1,6 +1,6 @@
 # 道路养护规范监测报告
 
-检查时间（UTC）：2026-11-09T08:05:34+00:00
+检查时间（UTC）：2026-11-16T08:02:48+00:00
 
 访问失败：0；本轮事件：0；待复核候选：95。
 
@@ -25,23 +25,23 @@
 | 正常 | https://xxgk.mot.gov.cn/jigou/glj/202606/t20260630_4208511.html | 已读取 |
 | 正常 | https://xxgk.mot.gov.cn/jigou/glj/202607/t20260710_4209312.html | 已读取 |
 | 正常 | https://xxgk.mot.gov.cn/jigou/glj/202609/t20260924_4224857.html | 已读取 |
-| 正常 | https://xxgk.mot.gov.cn/jigou/glj/202311/t20231123_3952605.html | 已读取 |
-| 正常 | https://xxgk.mot.gov.cn/jigou/glj/202404/t20240428_4137587.html | 已读取 |
-| 正常 | https://xxgk.mot.gov.cn/jigou/glj/202406/t20240606_4142073.html | 已读取 |
-| 正常 | https://xxgk.mot.gov.cn/jigou/glj/202406/t20240606_4142075.html | 已读取 |
-| 正常 | https://xxgk.mot.gov.cn/jigou/glj/202501/t20250107_4162186.html | 已读取 |
-| 正常 | https://xxgk.mot.gov.cn/jigou/glj/202504/t20250414_4166925.html | 已读取 |
-| 正常 | https://xxgk.mot.gov.cn/jigou/glj/202510/t20251010_4177928.html | 已读取 |
-| 正常 | https://xxgk.mot.gov.cn/jigou/glj/202511/t20251113_4179759.html | 已读取 |
-| 正常 | https://xxgk.mot.gov.cn/jigou/glj/202512/t20251231_4194885.html | 已读取 |
-| 正常 | https://xxgk.mot.gov.cn/jigou/glj/202601/t20260129_4199276.html | 已读取 |
-| 正常 | https://xxgk.mot.gov.cn/jigou/glj/202604/t20260422_4204147.html | 已读取 |
-| 正常 | https://xxgk.mot.gov.cn/jigou/glj/202607/t20260708_4209139.html | 已读取 |
-| 正常 | https://xxgk.mot.gov.cn/jigou/glj/202607/t20260714_4209592.html | 已读取 |
-| 正常 | https://xxgk.mot.gov.cn/jigou/glj/202608/t20260803_4211001.html | 已读取 |
-| 正常 | https://xxgk.mot.gov.cn/jigou/glj/202608/t20260814_4219904.html | 已读取 |
-| 正常 | https://xxgk.mot.gov.cn/jigou/kjs/202006/t20200623_3317413.html | 已读取 |
-| 正常 | https://xxgk.mot.gov.cn/jigou/kjs/202106/t20210630_3610865.html | 已读取 |
-| 正常 | https://xxgk.mot.gov.cn/jigou/kjs/202111/t20211111_3625608.html | 已读取 |
-| 正常 | https://xxgk.mot.gov.cn/jigou/kjs/202201/t20220111_3635977.html | 已读取 |
-| 正常 | https://xxgk.mot.gov.cn/jigou/kjs/202207/t20220721_3661537.html | 已读取 |
+| 正常 | https://xxgk.mot.gov.cn/jigou/kjs/202405/t20240507_4138473.html | 已读取 |
+| 正常 | https://xxgk.mot.gov.cn/jigou/kjs/202407/t20240723_4145161.html | 已读取 |
+| 正常 | https://xxgk.mot.gov.cn/jigou/kjs/202504/t20250423_4167422.html | 已读取 |
+| 正常 | https://xxgk.mot.gov.cn/jigou/kjs/202509/t20250910_4176464.html | 已读取 |
+| 正常 | https://xxgk.mot.gov.cn/jigou/kjs/202607/t20260724_4210392.html | 已读取 |
+| 正常 | https://xxgk.mot.gov.cn/jigou/syj/202006/t20200623_3314863.html | 已读取 |
+| 正常 | https://xxgk.mot.gov.cn/jigou/syj/202006/t20200623_3314872.html | 已读取 |
+| 正常 | https://xxgk.mot.gov.cn/jigou/syj/202101/t20210112_3514419.html | 已读取 |
+| 正常 | https://xxgk.mot.gov.cn/jigou/syj/202103/t20210308_3529860.html | 已读取 |
+| 正常 | https://xxgk.mot.gov.cn/jigou/syj/202105/t20210508_3587189.html | 已读取 |
+| 正常 | https://xxgk.mot.gov.cn/jigou/syj/202106/t20210609_3609177.html | 已读取 |
+| 正常 | https://xxgk.mot.gov.cn/jigou/syj/202107/t20210722_3612632.html | 已读取 |
+| 正常 | https://xxgk.mot.gov.cn/jigou/syj/202107/t20210722_3612637.html | 已读取 |
+| 正常 | https://xxgk.mot.gov.cn/jigou/syj/202110/t20211019_3622320.html | 已读取 |
+| 正常 | https://xxgk.mot.gov.cn/jigou/syj/202111/t20211125_3628077.html | 已读取 |
+| 正常 | https://xxgk.mot.gov.cn/jigou/cwsjs/202305/t20230531_3837620.html | 已读取 |
+| 正常 | https://xxgk.mot.gov.cn/jigou/fgs/202109/t20210910_3618344.html | 已读取 |
+| 正常 | https://xxgk.mot.gov.cn/jigou/fgs/202109/t20210910_3618350.html | 已读取 |
+| 正常 | https://xxgk.mot.gov.cn/jigou/glj/202006/t20200623_3313172.html | 已读取 |
+| 正常 | https://xxgk.mot.gov.cn/jigou/glj/202006/t20200623_3313189.html | 已读取 |
