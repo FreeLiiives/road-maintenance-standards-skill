@@ -1,13 +1,86 @@
 {
-  "checked_at": "2026-11-16T08:02:48+00:00",
-  "failures": 0,
-  "changes": [],
+  "checked_at": "2026-11-23T09:12:03+00:00",
+  "failures": 1,
+  "changes": [
+    {
+      "kind": "discovered",
+      "url": "https://xxgk.mot.gov.cn/jigou/glj/202006/t20200623_3313114.html",
+      "title": "交通运输部关于发布《公路技术状况评定标准》的公告"
+    },
+    {
+      "kind": "discovered",
+      "url": "https://xxgk.mot.gov.cn/jigou/glj/202006/t20200623_3313122.html",
+      "title": "交通运输部关于发布《农村公路养护技术规范》的公告"
+    },
+    {
+      "kind": "discovered",
+      "url": "https://xxgk.mot.gov.cn/jigou/glj/202006/t20200623_3313125.html",
+      "title": "交通运输部办公厅关于做好《公路技术状况评定标准》贯彻实施工作的通知"
+    },
+    {
+      "kind": "discovered",
+      "url": "https://xxgk.mot.gov.cn/jigou/glj/202006/t20200623_3313129.html",
+      "title": "交通运输部办公厅关于做好《小交通量农村公路工程技术标准》和《农村公路养护技术规范》实施工作的通知"
+    },
+    {
+      "kind": "discovered",
+      "url": "https://xxgk.mot.gov.cn/jigou/glj/202611/t20261120_4228169.html",
+      "title": "交通运输部关于发布《公路工程信息模型养护应用标准》的公告"
+    },
+    {
+      "kind": "discovered",
+      "url": "https://xxgk.mot.gov.cn/jigou/kjs/202006/t20200623_3317315.html",
+      "title": "交通运输部关于发布《道路冷链运输服务规则》等11项交通运输行业标准、《城市公共汽电车应急处置基本操作规程》标准修改单、废止《汽车运输、装卸危险货物作业规程》等4项交通运输行业标准的公告"
+    },
+    {
+      "kind": "baseline",
+      "url": "https://xxgk.mot.gov.cn/jigou/glj/202006/t20200623_3313114.html",
+      "title": "交通运输部关于发布《公路技术状况评定标准》的公告-政府信息公开-交通运输部",
+      "previous_sha256": null,
+      "sha256": "8a5428c1b0c2abb39a937239944d2f1a213c1d496eced26f511345f934c80e62"
+    },
+    {
+      "kind": "baseline",
+      "url": "https://xxgk.mot.gov.cn/jigou/glj/202006/t20200623_3313122.html",
+      "title": "交通运输部关于发布《农村公路养护技术规范》的公告-政府信息公开-交通运输部",
+      "previous_sha256": null,
+      "sha256": "6feca225c52e37758327a619462da21355cc7476f2d8d23e4e689badaa188cc1"
+    },
+    {
+      "kind": "baseline",
+      "url": "https://xxgk.mot.gov.cn/jigou/glj/202006/t20200623_3313125.html",
+      "title": "交通运输部办公厅关于做好《公路技术状况评定标准》贯彻实施工作的通知-政府信息公开-交通运输部",
+      "previous_sha256": null,
+      "sha256": "5084cc348990c470c3c2f93bf42181ac87fd37061c50379398e8e0f2a3ed7ade"
+    },
+    {
+      "kind": "baseline",
+      "url": "https://xxgk.mot.gov.cn/jigou/glj/202006/t20200623_3313129.html",
+      "title": "交通运输部办公厅关于做好《小交通量农村公路工程技术标准》和《农村公路养护技术规范》实施工作的通知-政府信息公开-交通运输部",
+      "previous_sha256": null,
+      "sha256": "0e8ec69f4465a9e08e4d3e7d0d09ef4af2990c8219e2bde4ce574fd53576a261"
+    },
+    {
+      "kind": "baseline",
+      "url": "https://xxgk.mot.gov.cn/jigou/glj/202611/t20261120_4228169.html",
+      "title": "交通运输部关于发布《公路工程信息模型养护应用标准》的公告-政府信息公开-交通运输部",
+      "previous_sha256": null,
+      "sha256": "9132ec222c345bccba8fe4a8c700340a4cc3f5b33c54301b10bc0f202123aaf0"
+    },
+    {
+      "kind": "baseline",
+      "url": "https://xxgk.mot.gov.cn/jigou/kjs/202006/t20200623_3317315.html",
+      "title": "交通运输部关于发布《道路冷链运输服务规则》等11项交通运输行业标准、《城市公共汽电车应急处置基本操作规程》标准修改单、废止《汽车运输、装卸危险货物作业规程》等4项交通运输行业标准的公告-政府信息公开-交通运输部",
+      "previous_sha256": null,
+      "sha256": "4d5cf0e6ea53e30439d64c21041ee1772dd1bba375951a9de40bf5574e2faa6b"
+    }
+  ],
   "health": [
     {
       "source": "mot-standards",
       "url": "https://xxgk.mot.gov.cn/zhengceapp/863/894/list_7234.html",
       "ok": true,
-      "links": 78
+      "links": 80
     },
     {
       "source": "mot-highway",
@@ -62,105 +135,106 @@
     },
     {
       "source": "announcement",
-      "url": "https://xxgk.mot.gov.cn/jigou/kjs/202405/t20240507_4138473.html",
+      "url": "https://xxgk.mot.gov.cn/jigou/glj/202006/t20200623_3313114.html",
       "ok": true
     },
     {
       "source": "announcement",
-      "url": "https://xxgk.mot.gov.cn/jigou/kjs/202407/t20240723_4145161.html",
+      "url": "https://xxgk.mot.gov.cn/jigou/glj/202006/t20200623_3313122.html",
       "ok": true
     },
     {
       "source": "announcement",
-      "url": "https://xxgk.mot.gov.cn/jigou/kjs/202504/t20250423_4167422.html",
+      "url": "https://xxgk.mot.gov.cn/jigou/glj/202006/t20200623_3313125.html",
       "ok": true
     },
     {
       "source": "announcement",
-      "url": "https://xxgk.mot.gov.cn/jigou/kjs/202509/t20250910_4176464.html",
+      "url": "https://xxgk.mot.gov.cn/jigou/glj/202006/t20200623_3313129.html",
       "ok": true
     },
     {
       "source": "announcement",
-      "url": "https://xxgk.mot.gov.cn/jigou/kjs/202607/t20260724_4210392.html",
+      "url": "https://xxgk.mot.gov.cn/jigou/glj/202611/t20261120_4228169.html",
       "ok": true
     },
     {
       "source": "announcement",
-      "url": "https://xxgk.mot.gov.cn/jigou/syj/202006/t20200623_3314863.html",
+      "url": "https://xxgk.mot.gov.cn/jigou/kjs/202006/t20200623_3317315.html",
       "ok": true
     },
     {
       "source": "announcement",
-      "url": "https://xxgk.mot.gov.cn/jigou/syj/202006/t20200623_3314872.html",
+      "url": "https://xxgk.mot.gov.cn/jigou/glj/202610/t20261014_4225889.html",
       "ok": true
     },
     {
       "source": "announcement",
-      "url": "https://xxgk.mot.gov.cn/jigou/syj/202101/t20210112_3514419.html",
+      "url": "https://xxgk.mot.gov.cn/jigou/glj/202610/t20261014_4225891.html",
       "ok": true
     },
     {
       "source": "announcement",
-      "url": "https://xxgk.mot.gov.cn/jigou/syj/202103/t20210308_3529860.html",
+      "url": "https://xxgk.mot.gov.cn/jigou/syj/202111/t20211126_3628184.html",
       "ok": true
     },
     {
       "source": "announcement",
-      "url": "https://xxgk.mot.gov.cn/jigou/syj/202105/t20210508_3587189.html",
+      "url": "https://xxgk.mot.gov.cn/jigou/syj/202111/t20211126_3628229.html",
+      "ok": false,
+      "error": "HTTPError: HTTP Error 404: Not Found"
+    },
+    {
+      "source": "announcement",
+      "url": "https://xxgk.mot.gov.cn/jigou/syj/202209/t20220901_3674022.html",
       "ok": true
     },
     {
       "source": "announcement",
-      "url": "https://xxgk.mot.gov.cn/jigou/syj/202106/t20210609_3609177.html",
+      "url": "https://xxgk.mot.gov.cn/jigou/syj/202301/t20230129_3747232.html",
       "ok": true
     },
     {
       "source": "announcement",
-      "url": "https://xxgk.mot.gov.cn/jigou/syj/202107/t20210722_3612632.html",
+      "url": "https://xxgk.mot.gov.cn/jigou/syj/202309/t20230922_3924263.html",
       "ok": true
     },
     {
       "source": "announcement",
-      "url": "https://xxgk.mot.gov.cn/jigou/syj/202107/t20210722_3612637.html",
+      "url": "https://xxgk.mot.gov.cn/jigou/syj/202410/t20241010_4157593.html",
       "ok": true
     },
     {
       "source": "announcement",
-      "url": "https://xxgk.mot.gov.cn/jigou/syj/202110/t20211019_3622320.html",
+      "url": "https://xxgk.mot.gov.cn/jigou/syj/202501/t20250108_4162229.html",
       "ok": true
     },
     {
       "source": "announcement",
-      "url": "https://xxgk.mot.gov.cn/jigou/syj/202111/t20211125_3628077.html",
+      "url": "https://xxgk.mot.gov.cn/jigou/syj/202501/t20250114_4162520.html",
       "ok": true
     },
     {
       "source": "announcement",
-      "url": "https://xxgk.mot.gov.cn/jigou/cwsjs/202305/t20230531_3837620.html",
+      "url": "https://xxgk.mot.gov.cn/jigou/syj/202501/t20250124_4163159.html",
       "ok": true
     },
     {
       "source": "announcement",
-      "url": "https://xxgk.mot.gov.cn/jigou/fgs/202109/t20210910_3618344.html",
+      "url": "https://xxgk.mot.gov.cn/jigou/syj/202507/t20250716_4172623.html",
       "ok": true
     },
     {
       "source": "announcement",
-      "url": "https://xxgk.mot.gov.cn/jigou/fgs/202109/t20210910_3618350.html",
+      "url": "https://xxgk.mot.gov.cn/jigou/syj/202604/t20260415_4203705.html",
       "ok": true
     },
     {
       "source": "announcement",
-      "url": "https://xxgk.mot.gov.cn/jigou/glj/202006/t20200623_3313172.html",
-      "ok": true
-    },
-    {
-      "source": "announcement",
-      "url": "https://xxgk.mot.gov.cn/jigou/glj/202006/t20200623_3313189.html",
+      "url": "https://xxgk.mot.gov.cn/jigou/syj/202608/t20260807_4211320.html",
       "ok": true
     }
   ],
-  "candidate_count": 95,
+  "candidate_count": 101,
   "pending_first_fetch": 0
 }
